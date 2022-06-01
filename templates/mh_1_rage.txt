@@ -1,0 +1,29 @@
+Rage Winterchill
+--------------------
+{tank} Rage - <tank_1> - (<healer_1> + <healer_2>)
+
+Iceblocks: All but Tank healers focus on Iceblocks asap
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+    North         {moon} <healer_1>
+   {moon}  -  {star}       {star} <healer_2>
+  /         \       {triangle} <healer_3>
+{triangle}    {skull}   {diamond}     {diamond} <healer_4>
+  \         /       {square} <healer_5>
+   {square}  -  {circle}       {circle} <healer_6>
+    South
+
+{icon 31258} {spell 31258}
+- Avoid (20 Yards)
+
+<heroism_rage>
+
+
+Mount Hyjal Trash 
+--------------------
+Pally Tank = <tank_3> - (<healer_1> + <healer_3>)
+{Skull}{square} = <tank_1> - (<healer_2>)
+{Cross}{moon} = <tank_2> - (<healer_4>)
+Frostwrymn Tank = <tank_hunter> - (<healer_5>)
+Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_5> + <healer_6>)

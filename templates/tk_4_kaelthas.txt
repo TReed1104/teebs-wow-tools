@@ -1,0 +1,24 @@
+Kael'Thas
+--------------------
+P1 & P3
+{skull}|cYellowThaladred|r - Kite
+{cross}|cBlueSanguinar|r - <tank_3> - (<healer_1>)
+{square}|cGreenCapernian|r - <tank_warlock> - (<healer_3>)
+{moon}|cRedTelonicus|r - <tank_2> - (<healer_2>)
+
+Kill Order Melee: {cross} > {moon}
+Kill Order Ranged: {skull} > {square} > {cross} > {moon}
+
+P2
+Axe - <tank_1> - (<healer_1>)
+Bow - <hunter_4> - (<healer_5>)
+Rest - <tank_3> - (<healer_2>) (MD: <hunter_1>, Trap: <hunter_2>)
+
+P4
+Kael'thas - <tank_1> - (<healer_1> + <healer_2>)
+Phoenix - <tank_3> - (<healer_3>)
+{healer} |cRedWatch for MT Healers getting MCed - Cover|r
+
+Interrupts: <interrupt_1>, <interrupt_2>, <interrupt_3>, <interrupt_6>
+
+<heroism_kaelthas>

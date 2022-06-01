@@ -1,0 +1,26 @@
+Magtheridon
+--------------------
+Magtheridon = <tank_1> - (<healer_1> + <healer_2>)
+
+{Skull} = <tank_2> - <healer_5>
+{Cross}{Square} = <tank_1> - (<healer_1> + <healer_4>)
+{Moon}{Triangle} = <tank_3> - (<healer_2> + <healer_3>)
+
+{Square} (MD: <hunter_1> -> <tank_1>)
+{Triangle} (MD: <hunter_2> -> <tank_3>)
+
+{skull} > {cross} > {square} > {moon} > {triangle}
+
+   C  -  D
+  /         \
+B           E
+   \        /
+       A
+
+Cubes
+--------------------
+A - <cube_a> (|cGreenBackup:|r <cube_a_backup>)
+B - <cube_b> (|cGreenBackup:|r <cube_b_backup>)
+C - <cube_c> (|cGreenBackup:|r <cube_c_backup>)
+D - <cube_d> (|cGreenBackup:|r <cube_d_backup>)
+E - <cube_e> (|cGreenBackup:|r <cube_e_backup>)

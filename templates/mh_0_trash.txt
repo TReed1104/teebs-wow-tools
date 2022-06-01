@@ -1,0 +1,15 @@
+Mount Hyjal Trash 
+--------------------
+Pally Tank = <tank_3> - (<healer_1> + <healer_3>)
+{Skull}{square} = <tank_1> - (<healer_2>)
+{Cross}{moon} = <tank_2> - (<healer_4>)
+Frostwrymn Tank = <tank_hunter> - (<healer_5>)
+Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_5> + <healer_6>)
+
+- {tank}|cWarriorWarriors|r/|cDruidBears|r focus on Abominations/Necromancers
+
+- {tank} Tanks try and use FAPs where possible on Abominations
+
+- Use to LoS to bring Gargoyles to ground (Huts/Walls/Out-range)
+
+- |cWarlockWarlocks|r try to Fear/Banish/CC the Felhounds

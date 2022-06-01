@@ -1,0 +1,7 @@
+Al'ar
+--------------------
+A, B, C - <tank_1> - (<healer_1> + <healer_4>)
+D, E, F - <tank_2> - (<healer_2> + <healer_4>)
+Phoenix - <tank_3> - (<healer_3>)
+
+<heroism_alar>

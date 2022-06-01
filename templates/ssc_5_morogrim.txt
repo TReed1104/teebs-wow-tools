@@ -1,0 +1,12 @@
+Morogrim
+--------------------
+Morogrim = <tank_1> - (<healer_1> + <healer_2>)
+
+Murlocs = <tank_3> - (<healer_3>)
+
+Graves - (<healer_4>)
+Backup - (<healer_5>)
+
+|cRedHealers - Watch out for other healers getting graved|r
+
+<heroism_morogrim>

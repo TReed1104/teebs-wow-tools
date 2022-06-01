@@ -1,0 +1,17 @@
+Fathomlord
+--------------------
+Fathom = <tank_1> - (<healer_1>) - MD: <hunter_1>
+Shaman = <tank_2> - (<healer_2>) - MD: <hunter_2>
+Hunter = <tank_3> - (<healer_3>) - MD: <hunter_3>
+Priest = <tank_4> - (<healer_4>) - MD: <hunter_4>
+
+{healer} Healers —> when your miniboss dies move to raid healing
+
+Interrupts: <interrupt_5>, <interrupt_6>, <interrupt_7>, <interrupt_8>
+
+Kill Order:
+Spitfire Totems >> Shaman > Hunter > Priest > Fathom
+
+|cRedALWAYS prio Spitfire Totems|r
+
+<heroism_fathomlord>

@@ -1,0 +1,13 @@
+Hydross
+-------------------
+Nature = <tank_nature> - (<healer_1> + <healer_4>)
+Frost = <tank_frost> - (<healer_2> + <healer_4>)
+Adds = <tank_mixed> - (<healer_3>)
+
+Banish {triangle} - <banish_1>
+Banish {diamond} - <banish_2>
+
+MD Frost - <hunter_1> -> <tank_frost>
+MD Nature - <hunter_2> -> <tank_nature>
+
+<heroism_hydross>

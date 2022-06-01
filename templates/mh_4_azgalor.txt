@@ -1,0 +1,28 @@
+Azgalor
+--------------------
+{tank} <tank_1> - (<healer_1> + <healer_2>)
+{tank} Doomguards - <tank_3> - (<healer_3>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+{icon 31347} {spell 31347}
+- Run to Doomguard spot (tree stump) when you get debuffed
+
+{icon 31344} {spell 31344}
+- Raid-wide silence 5s
+- All HoTs at all times on Main tank (<tank_1>)
+
+{icon 31340} {spell 31340}
+- Be at max range, Arcane/SPriest avoid it
+- Melee avoid by moving around his backend as a group
+
+<heroism_azgalor>
+
+
+Mount Hyjal Trash 
+--------------------
+Pally Tank = <tank_3> - (<healer_1> + <healer_3>)
+{Skull}{square} = <tank_1> - (<healer_2>)
+{Cross}{moon} = <tank_2> - (<healer_4>)
+Frostwrymn Tank = <tank_hunter> - (<healer_5>)
+Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_5> + <healer_6>)

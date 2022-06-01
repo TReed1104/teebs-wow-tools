@@ -1,0 +1,5 @@
+Gruul
+--------------------
+<tank_1> - (<healer_1> + <healer_druid>)
+<tank_2> - (<healer_2> + <healer_druid>)
+Raid - Rest & when not actively healing.

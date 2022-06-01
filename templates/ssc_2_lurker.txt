@@ -1,0 +1,17 @@
+Lurker
+--------------------
+P1
+Lurker = <tank_1> - (<healer_1> + <healer_2>)
+
+P2
+Adds = <tank_1> - (<healer_1>)
+Adds = <tank_2> - (<healer_2>)
+Adds = <tank_3> - (<healer_3>)
+
+P1 - Traps - |cHunterHunter|r
+P2 - Sheeps - |cMageMages|r
+P3 - Fears - |cWarlockWarlocks|r
+
+Guardians > Hunter Ambushers > Warlock Ambushers
+
+<heroism_lurker>

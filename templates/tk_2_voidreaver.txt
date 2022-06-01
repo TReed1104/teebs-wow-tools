@@ -1,0 +1,10 @@
+Voidreaver
+--------------------
+{tank} <tank_3>
+{tank} <tank_1>
+{tank} <tank_2>
+
+<healer_1> + <healer_2> - On Current Tank (Target-of-target)
+|cHunterHunters|r - <healer_4> (Heal when the Hunter is in range)
+
+<heroism_voidreaver>
