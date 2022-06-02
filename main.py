@@ -14,14 +14,14 @@ def main():
     args = argParser.parse_args()
 
     ## Execute the Angry assignment App
-    if (args.app == "aa"):
+    if (args.app == "angry-assignments"):
         ## Create the app and run
         print("> Generating AngryAssignments")
         app = AssignmentGenerator(args.config)
         app.run()
 
     ## Execute the WoW UI Syncer
-    if (args.app == "ui"):
+    if (args.app == "addons"):
         ## Create the app and run
         print("> Syncing WoW Folders")
         app = InterfaceSync(args.config, args.mode, args.target)
