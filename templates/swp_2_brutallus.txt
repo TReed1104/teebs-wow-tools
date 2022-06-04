@@ -1,0 +1,23 @@
+Brutallus
+--------------------
+{tank} <tank_1>
+{tank} <tank_2>
+{healer} Current Tank: <healer_1> + <healer_2> + <healer_3> (Target-of-target)
+{healer} {icon 45141} Healers: <healer_6>
+{healer} Raid Healing: <healer_4> + <healer_5>
+
+|cPurpleSoak Group 1:|r
+[brutallus_group_1]
+
+|cPurpleSoak Group 2:|r
+[brutallus_group_2]
+
+|cPurpleTactics:|r
+- Tank Healers be wary of spike damage from {icon 45185} {spell 45185}
+- Tanks swap every 3 {icon 45150} {spell 45150}
+- |cRedRun away to hide behind mid healers {icon 45141} {spell 45141}|r
+   - dont rush you have time, dont spread it!!
+   - stack on other burn targets, 3s to the end leave it 
+   - use healthstones at 1s if necessary (less then 6k hp)
+
+<heroism_brutallus>

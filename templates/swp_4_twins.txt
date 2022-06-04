@@ -1,0 +1,24 @@
+Eredar Twins
+--------------------
+{tank} Lady Sacrolash - <tank_1> + <tank_2> - <healer_1> + <healer_3>
+{tank} Grand Warlock Alythess - <tank_3> - <healer_2> + <healer_druid>
+
+Upstairs Conflag: <healer_5>
+Downstairs Conflag: <healer_4>
+
+
+|cPurplePhase 1:|r
+- Stay below the 2 tanks threatwise
+- Tank swaps via threat drop
+- Run with Conflag
+    - Upstairs - To entrance behind
+    - Downstairs - Undercover
+
+
+|cPurplePhase 2:|r
+- Stack on her arse
+- Shadow nova targets explode it on the raid
+
+
+
+<heroism_twins>

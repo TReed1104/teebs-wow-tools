@@ -1,12 +1,12 @@
 Gurtogg Bloodboil
 --------------------
-{tank} <tank_1> - (<healer_1> + <healer_4> + <healer_6>)
+{tank} <tank_1> - (<healer_1> + <healer_2> + <healer_6>)
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-Soak {star}: <bloodboil_group_1_1>, <bloodboil_group_1_2>, <bloodboil_group_1_3>, <bloodboil_group_1_4>, <bloodboil_group_1_5>
-Soak {circle}: <bloodboil_group_2_1>, <bloodboil_group_2_2>, <bloodboil_group_2_3>, <bloodboil_group_2_4>, <bloodboil_group_2_5>
-Soak {triangle}: <bloodboil_group_3_1>, <bloodboil_group_3_2>, <bloodboil_group_3_3>, <bloodboil_group_3_4>, <bloodboil_group_3_5>
+Soak {star}: [bloodboil_group_1]
+Soak {circle}: [bloodboil_group_2]
+Soak {triangle}: [bloodboil_group_3]
 
 |cPurplePhase 1:|r
 {icon 42005} {spell 42005}
