@@ -57,8 +57,16 @@ class AssignmentGenerator:
 
         ## Find and replace assignment tokens e.g. <tank_0>
         for assignmentTag in self.configData["assignments"]:
-            ## Replace the placeholder with the raider name, formatted with their class colour
-            fileData = fileData.replace(f"<{assignmentTag}>", self.__colourNameByRosterClass(assignmentTag))
+            ## Check if the assignment tag is a list
+            if type(self.configData["assignments"][assignmentTag]) is list:
+                ## Convert the group list into a single comma seperated string
+                assignmentList = ", ".join(self.__colourGroupMemberNameByRosterClass(player) for player in self.configData["assignments"][assignmentTag])
+
+                ## Replace the group placeholder tag with the raider names list, formatted with their class colour
+                fileData = fileData.replace(f"[{assignmentTag}]", assignmentList)
+            else:
+                ## Replace the placeholder with the raider name, formatted with their class colour
+                fileData = fileData.replace(f"<{assignmentTag}>", self.__colourNameByRosterClass(assignmentTag))
         
         ## Find and replace the additional tag tokens e.g. <heroism_alar>
         for additionalTag in self.configData["additional_tags"]:
@@ -74,6 +82,20 @@ class AssignmentGenerator:
         ## Get the raider details from the config file
         raiderName = self.configData["assignments"][placeholder]
 
+        ## Check the placeholder has a value to set
+        if raiderName == "":
+            return "|cRed!!!Not Set!!!|r"
+
+        ## Get the raider's class
+        raiderClass = self.configData["roster"][raiderName]
+
+        ## Format the raider name with their class colour in the format WoW uses for colouring text |c<Colour><Text>|r
+        formattedRaiderName = f"|c{raiderClass}{raiderName}|r"
+        return formattedRaiderName
+
+
+    ## Format a rostered players name with their class information
+    def __colourGroupMemberNameByRosterClass(self, raiderName):
         ## Check the placeholder has a value to set
         if raiderName == "":
             return "|cRed!!!Not Set!!!|r"
