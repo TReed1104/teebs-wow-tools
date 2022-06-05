@@ -1,7 +1,7 @@
 Felmyst
 --------------------
 Felmyst Tank: <tank_1> - <healer_1> + <healer_2> + <healer_druid>
-Skeleton Tank: <tank_2> - <healer_1> + <healer_2> + <healer_druid>
+Skeleton Tank: <tank_3> - <healer_1> + <healer_2> + <healer_druid>
 
 {healer} {icon 45662} {spell 45662} healer: <healer_5>
 
