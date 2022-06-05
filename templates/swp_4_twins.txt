@@ -9,16 +9,17 @@ Downstairs Conflag: <healer_3>
 
 |cPurplePhase 1:|r
 - Stay below the 2 tanks threatwise
-- Tank swaps via threat drop
-- Run with Conflag
-    - Upstairs - To entrance behind
-    - Downstairs - Undercover
+    - If you overthreat, jump down
+    - |cWarlockWarlocks|r and |cHunterHunters|r rememebr your shatters and FDs just before Hero
+- {icon 45342} {spell 45342} Run to the drop spot
+    - Use PVP Trinket or LAPS to break the stun and Healthstone
+- Stay stacked to share the {icon 45329} {spell 45329} hits and drop your stacks
+- All |cMageMages|r and |cShamanShamans|r need to be ready to dispel {icon 45230} {spell 45230} from Alythess ASAP
+- If your stacks are high you can also clear them with Bubble/Block/Cloak
 
 
 |cPurplePhase 2:|r
-- Stack on her arse
-- Shadow nova targets explode it on the raid
-
-
+- When Sacrloash dies, jump down and stack behind Alythess tightly
+- if targetted by {icon 45329} {spell 45329}, ensure you move directly under the boss so the whole raid gets hit
 
 <heroism_twins>
