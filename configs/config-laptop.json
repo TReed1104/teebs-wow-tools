@@ -13,9 +13,9 @@
             "tank_3": "Felthus",
             "tank_4": "",
     
-            "healer_1": "Andy",
-            "healer_2": "Mirian",
-            "healer_3": "Sucidnicon",
+            "healer_1": "Mirian",
+            "healer_2": "Sucidnicon",
+            "healer_3": "Perdis",
             "healer_4": "Ysh",
             "healer_5": "Whistle",
             "healer_6": "Enryk",
@@ -32,7 +32,7 @@
             "interrupt_8": "",
     
             "polymorph_1": "Forkie",
-            "polymorph_2": "Binky",
+            "polymorph_2": "Relentlez",
             "polymorph_3": "",
     
             "banish_1": "Uryk",
@@ -119,8 +119,8 @@
             "heroism_kalecgos": "Heroism - Per group, in shadow-realm",
             "heroism_brutallus": "Heroism - On Call",
             "heroism_felmyst": "Heroism - 10 Seconds into fight",
-            "heroism_twins": "Heroism - 10 Seconds into fight",
-            "heroism_muru": "Heroism - TBD",
+            "heroism_twins": "Heroism - Once threat is established",
+            "heroism_muru": "Heroism - Melee on Pull, Caster/Ranged on Entropius",
             "heroism_kiljaeden": "Heroism - TBD"
         },
         "roster": {
