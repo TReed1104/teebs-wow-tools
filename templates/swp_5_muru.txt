@@ -1,11 +1,13 @@
 M'uru
 --------------------
 |cPurplePhase 1:|r
-Far Tank: <tank_1> - <healer_1> + <healer_druid>
-Entrance Tank: <tank_2> - <healer_3> + <healer_druid>
-Voids: <tank_3> - <healer_2>
+Entrance Tank: <tank_1> - <healer_3> + <healer_druid>
+Far Tank: <tank_3> - <healer_1> + <healer_druid>
+Voids: <tank_2> - <healer_2> + <healer_druid>
 
 Dark Fiend Dispeller: <muru_dispeller>
+Spellsteal Door: <polymorph_1>
+Spellsteal Far: <polymorph_2>
 
 |cGreenCasters/Ranged|r: Void Sentinels > Void Spawns > Humanoids > M'uru
 |cBlueMelee|r: M'uru > Void Spawns > Humanoids > Void Sentinels
@@ -15,6 +17,8 @@ Dark Fiend Dispeller: <muru_dispeller>
 - Assigned priest will {icon 32375} {spell 32375} the Dark Fiends when Darkness is cast
 - Interrupt the Fury Mages
 - Stun the Humanoids as much as possible
+- Grounding Totems in tank group (Vashj style)
+- Hunters try to help with MDs on the add tanks
 
 
 |cPurplePhase 2:|r
