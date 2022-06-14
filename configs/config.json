@@ -16,7 +16,7 @@
             "healer_1": "Mirian",
             "healer_2": "Sucidnicon",
             "healer_3": "Perdis",
-            "healer_4": "Ysh",
+            "healer_4": "Cinder",
             "healer_5": "Whistle",
             "healer_6": "Enryk",
             "healer_7": "Maccy",
@@ -25,19 +25,19 @@
             "interrupt_1": "Larky",
             "interrupt_2": "Orrio",
             "interrupt_3": "Killgem",
-            "interrupt_4": "Forkie",
+            "interrupt_4": "Relentlez",
             "interrupt_5": "Binky",
             "interrupt_6": "",
             "interrupt_7": "",
             "interrupt_8": "",
     
-            "polymorph_1": "Forkie",
+            "polymorph_1": "Binky",
             "polymorph_2": "Relentlez",
             "polymorph_3": "",
     
-            "banish_1": "Uryk",
+            "banish_1": "Wizzy",
             "banish_2": "Navi",
-            "banish_3": "Wizzy",
+            "banish_3": "",
     
             "hunter_1": "Stubb",
             "hunter_2": "Tirguth",
@@ -64,16 +64,16 @@
             "bloodboil_group_3": [ "Perdis", "Relentlez", "Binky", "Maccy", "Enryk" ],
     
             "kalecgos_group_1": ["Binky", "Larky", "Orrio", "Jylo", "Tharaseer", "Enryk"],
-            "kalecgos_group_2": ["Forkie", "Wizzy", "Linnet", "Whistle", "Mirian"],
-            "kalecgos_group_3": ["Rustika", "Adusham", "Navi", "Uryk", "Sucidnicon", "Ysh"],
-            "kalecgos_group_4": ["Maccy", "Stubb", "Tirguth", "Veganwolf", "Andy"],
+            "kalecgos_group_2": ["Relentlez", "Stubb", "Linnet", "Perdis", "Whistle"],
+            "kalecgos_group_3": ["Forkie", "Adusham", "Navi", "Wizzy", "Ysh"],
+            "kalecgos_group_4": ["Maccy", "Kalliya", "Tirguth", "Veganwolf", "Sucidnicon"],
     
-            "brutallus_group_1": ["Jim", "Ysh", "Maccy", "Wizzy", "Rustika", "Adusham",  "Uryk", "Navi"],
-            "brutallus_group_2": ["Felthus", "Sucidnicon", "Whistle", "Linnet", "Stubb", "Tirguth", "Forkie", "Binky" ],
+            "brutallus_group_1": ["Jim", "Sucidnicon", "Ysh", "Maccy", "Wizzy", "Adusham",  "Uryk", "Navi"],
+            "brutallus_group_2": ["Felthus", "Whistle", "Linnet", "Stubb", "Tirguth", "Kalliya", "Relentlez", "Binky"],
     
-            "felmyst_group_1": ["Linnet", "Enryk", "Binky", "Forkie", "Andy", "Maccy"],
-            "felmyst_group_2": ["Wizzy", "Rustika", "Ysh", "Adusham", "Navi", "Uryk"],
-            "felmyst_group_3": ["Sucidnicon", "Stubb", "Tirguth", "Mirian", "Whistle"],
+            "felmyst_group_1": ["Linnet", "Enryk", "Binky", "Relentlez", "Mirian"],
+            "felmyst_group_2": ["Perdis", "Ysh", "Stubb", "Tirguth", "Kalliya", "Whistle"],
+            "felmyst_group_3": ["Sucidnicon", "Maccy", "Adusham", "Navi", "Wizzy"],
 
             "muru_dispeller": "Linnet",
     
@@ -119,8 +119,8 @@
             "heroism_kalecgos": "Heroism - Per group, in shadow-realm",
             "heroism_brutallus": "Heroism - On Call",
             "heroism_felmyst": "Heroism - 10 Seconds into fight",
-            "heroism_twins": "Heroism - Once threat is established",
-            "heroism_muru": "Heroism - Melee on Pull, Caster/Ranged on Entropius",
+            "heroism_twins": "Heroism - After first Conflag + Use threat drops",
+            "heroism_muru": "Heroism - All on pull",
             "heroism_kiljaeden": "Heroism - TBD"
         },
         "roster": {
