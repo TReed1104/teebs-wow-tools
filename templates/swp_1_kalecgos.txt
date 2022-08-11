@@ -1,7 +1,7 @@
 Kalecgos
 --------------------
 Tank Order: <tank_3>, <tank_1>, <tank_2>
-Tank Healers: <healer_3> (Portal 1), <healer_1> (Portal 4)
+Tank Healers: <healer_2> (Portal 1), <healer_1> (Portal 4)
 
 |cPurplePortal Groups:|r
 {circle}: [kalecgos_group_1]

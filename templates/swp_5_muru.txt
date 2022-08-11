@@ -1,29 +1,26 @@
 M'uru
 --------------------
 |cPurplePhase 1:|r
-Entrance Tank: <tank_1> - <healer_3> + <healer_druid>
-Far Tank: <tank_3> - <healer_1> + <healer_druid>
-Voids: <tank_2> - <healer_2> + <healer_druid>
+Voids: <tank_1> - <healer_1> + <healer_druid>
+Entrance Tank: <tank_2> - <healer_2>
+Far Tank: <tank_3> - <healer_3>
 
 Dark Fiend Dispeller: <muru_dispeller>
-Spellsteal Door: <polymorph_1>
-Spellsteal Far: <polymorph_2>
 
-|cGreenCasters/Ranged|r: Void Sentinels > Void Spawns > Humanoids > M'uru
-|cBlueMelee|r: M'uru > Void Spawns > Humanoids > Void Sentinels
+Melee: M'uru > Humanoids
+|cHunterHunters|r: Sentinels > M'uru
+|cWarlockWarlocks|r: Spawns > Humans > M'uru
+|cMageMages|r: Control Spawns > Sentinels > M'uru
+
+Blizzard: <polymorph_1>
+Nova: <polymorph_2>
 
 - Raid to stack on {circle}
-- Melee need to avoid the {icon 45996} {spell 45996} every 45 seconds under M'uru
-- Assigned priest will {icon 32375} {spell 32375} the Dark Fiends when Darkness is cast
 - Interrupt the Fury Mages
-- Stun the Humanoids as much as possible
-- Grounding Totems in tank group (Vashj style)
-- Hunters try to help with MDs on the add tanks
-
 
 |cPurplePhase 2:|r
-Entropius: <tank_1> - <healer_1> + <healer_druid>
-Adds: <tank_3> - <healer_2>
+Entropius: <tank_3> - <healer_1> + <healer_druid>
+Adds: <tank_1> & <tank_2> - <healer_2>
 
 Dark Fiend Dispels: All |cShamanShamans|r & |cPriestPriests|r
 

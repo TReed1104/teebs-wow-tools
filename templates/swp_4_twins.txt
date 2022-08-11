@@ -3,7 +3,7 @@ Eredar Twins
 {tank} Lady Sacrolash - <tank_1> + <tank_2> - <healer_1> + <healer_druid> (on active tank)
 {tank} Grand Warlock Alythess - <tank_3> - <healer_2> + <healer_druid>
 
-{healer} Conflag Healer: <healer_3>
+{healer} Conflag Healer: <healer_4>
 
 |cPurplePhase 1:|r
 - Stay below the 2 tanks threatwise
