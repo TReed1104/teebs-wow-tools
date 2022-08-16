@@ -2,8 +2,8 @@ M'uru
 --------------------
 |cPurplePhase 1:|r
 Voids: <tank_1> - <healer_1> + <healer_druid>
-Entrance Tank: <tank_2> - <healer_2>
-Far Tank: <tank_3> - <healer_3>
+Entrance Tank: <tank_2> - <healer_3>
+Far Tank: <tank_3> - <healer_2>
 
 Dark Fiend Dispeller: <muru_dispeller>
 
@@ -19,10 +19,9 @@ Nova: <polymorph_2>
 - Interrupt the Fury Mages
 
 |cPurplePhase 2:|r
-Entropius: <tank_3> - <healer_1> + <healer_druid>
-Adds: <tank_1> & <tank_2> - <healer_2>
+Entropius: <tank_3> - <healer_1> + <healer_2> + <healer_druid>
 
-Dark Fiend Dispels: All |cShamanShamans|r & |cPriestPriests|r
+Dark Fiend Dispels: All |cShamanShamans|r
 
 - Spread out once Entropius Spawns, aim for 6 yards
 - Avoid the Black holes that spawn under your feet, move away from them
