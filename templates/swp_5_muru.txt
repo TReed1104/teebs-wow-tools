@@ -19,7 +19,7 @@ Nova: <polymorph_2>
 - Interrupt the Fury Mages
 
 |cPurplePhase 2:|r
-Entropius: <tank_3> - <healer_1> + <healer_2> + <healer_druid>
+Entropius: <tank_3> - <healer_1> + <healer_2>
 
 Dark Fiend Dispels: All |cShamanShamans|r
 
