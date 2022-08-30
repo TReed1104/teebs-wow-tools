@@ -1,9 +1,9 @@
 M'uru
 --------------------
 |cPurplePhase 1:|r
-Voids: <tank_1> - <healer_1>
-Entrance Tank: <tank_3> - <healer_3>
-Far Tank: <tank_2> - <healer_2>
+Voids: <tank_1> - <healer_1> + <healer_druid>
+Entrance Tank: <tank_2> - <healer_3>
+Far Tank: <tank_3> - <healer_2>
 
 Dark Fiend Dispeller: <muru_dispeller>
 

@@ -1,9 +1,9 @@
 Felmyst
 --------------------
-Felmyst Tank: <tank_1> - <healer_1> + <healer_2>
-Skeleton Tank: <tank_3> - <healer_1> + <healer_2>
+Felmyst Tank: <tank_1> - <healer_1> + <healer_2> + <healer_druid>
+Skeleton Tank: <tank_3> - <healer_1> + <healer_2> + <healer_druid>
 
-{healer} {icon 45662} {spell 45662} healer: <felmyst_encap_healer>
+{healer} {icon 45662} {spell 45662} healer: <healer_5>
 
 NE {circle}: [felmyst_group_1]
 SE {star}: [felmyst_group_2]

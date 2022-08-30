@@ -1,0 +1,23 @@
+Mother Shahraz
+--------------------
+{tank} MT: <tank_1> - (<healer_1> + <healer_2>)
+{tank} Soak: <tank_2> - (<healer_4>)
+{tank} Soak: <tank_3> - (<healer_3>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+|cRedUse your Shadow Res gear|r
+
+{icon 41001} {spell 41001}
+- Run away from the others
+- Use Shadow Pots/Healthstones
+- Use your Bubbles/defensives/Blink anything to survive
+
+{icon 40860} {spell 40860}
+ - Every 9s 10 raiders affected
+ - Damage & throw in the air (Stay under statue)
+ 
+{icon 40823} {spell 40823}
+- 18 Yard 10s silence - outrange
+
+<heroism_mother>

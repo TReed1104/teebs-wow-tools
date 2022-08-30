@@ -1,14 +1,14 @@
 Kil'Jaeden
 --------------------
-Kil'Jaeden - <tank_1> - <healer_1>
-Reflections - <tank_2> - <healer_2>
+Kil'Jaeden - <tank_1> - <healer_2>
+Reflections - <tank_3> - <healer_1>
 
 Dragon Pilot: [kj_dragons]
 
 |cPurpleHands of the Deceiver:|r
-{Skull} = <tank_1> - (<healer_1>) - {icon 853} <kj_hand_stun_1>
-{Cross} = <tank_2> - (<healer_2>) - {icon 853} <kj_hand_stun_2>
-{Square} = <tank_2> - (<healer_2>) - {icon 853} <kj_hand_stun_3>
+{Skull} = <tank_1> - (<healer_2>) - {icon 853} <kj_hand_stun_1>
+{Cross} = <tank_3> - (<healer_1>) - {icon 853} <kj_hand_stun_2>
+{Square} = <tank_3> - (<healer_1>) - {icon 853} <kj_hand_stun_3>
 Silence Bombs: [kj_hand_bombs]
 
 |cPurplePositioning:|r

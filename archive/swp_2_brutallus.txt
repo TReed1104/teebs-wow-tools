@@ -1,10 +1,10 @@
 Brutallus
 --------------------
 {tank} <tank_1>
-{tank} <tank_2>
-{healer} Current Tank: <healer_1> + <healer_2>
-{healer} {icon 45141} Healers: <brutallus_burn_healer>
-{healer} Raid Healing: <healer_4> + <healer_5> + <healer_6>
+{tank} <tank_3>
+{healer} Current Tank: <healer_1> + <healer_2> + <healer_3>
+{healer} {icon 45141} Healers: <healer_6>
+{healer} Raid Healing: <healer_4> + <healer_5> + <healer_7>
 
 |cPurpleSoak Group 1:|r
 [brutallus_group_1]

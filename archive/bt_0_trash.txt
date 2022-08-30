@@ -5,7 +5,7 @@ Black Temple Trash
 {Square}{Moon} = <tank_3> - (<healer_3>)
 
 |cRedCC On Request:|r
-{circle} - <mage_1>
-{star} - <mage_2>
-{triangle} - <warlock_1>
-{diamond} - <warlock_2>
+{circle} - <polymorph_1>
+{star} - <polymorph_2>
+{triangle} - <banish_1>
+{diamond} - <banish_2>

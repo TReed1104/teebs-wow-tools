@@ -1,0 +1,17 @@
+Supremus
+--------------------
+{tank} MT: <tank_3> - (<healer_1> + <healer_2>) (MD: <hunter_1>)
+{tank} Soak: <tank_1> - (<healer_3> + <healer_druid>) (MD: <hunter_2>)
+{tank} Soak: <tank_2> - (<healer_5> + <healer_druid>) (MD: <hunter_3>)
+
+|cPurplePhase 1:|r
+- Keep the tanks topped
+- Avoid Blue Fire
+- Max range (melee and ranged)
+
+|cPurplePhase 2:|r
+- Avoid Volcanos (biggest killer)
+- Fixated targets kite him, stay within 45 yards
+- Changes fixate every 10 seconds
+
+<heroism_supremus>

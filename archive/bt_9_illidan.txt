@@ -3,6 +3,7 @@ Illidan Stormrage
 {tank} Illidan: <tank_1> - (<healer_1> + <healer_2>)
 {tank} Fire: <tank_2> - (<healer_1> + <healer_3>)
 {tank} Fire: <tank_3> - (<healer_2> + <healer_6>)
+{tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
 
 |cRedThreat drop between Form change|r 
 |cRed Push past 30% only in human form|r
@@ -29,6 +30,7 @@ Illidan Stormrage
 
 |cPurplePhase 4:|r
 - 15 Yards from Demon form at all times
+- 20 Yards from {star}<tank_warlock>
 - Kill Shadow Demons ASAP
 - {icon 40932}{spell 40932} - Spread 5 yards
 

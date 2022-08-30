@@ -1,0 +1,9 @@
+Shade of Akama
+--------------------
+{tank} Right: <tank_1> - (<healer_1>)
+{tank} Right: <tank_2> - (<healer_2>)
+{tank} Left: <tank_3> - (<healer_3>)
+
+- Bring all mobs to center, AoE it all down
+
+<heroism_shade>
