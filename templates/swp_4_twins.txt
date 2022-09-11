@@ -1,6 +1,6 @@
 Eredar Twins
 --------------------
-{tank} Lady Sacrolash - <tank_1> + <tank_2> - <healer_1> + <healer_7>(on active tank)
+{tank} Lady Sacrolash - <tank_1> + <tank_2> - <healer_1> + <healer_6>(on active tank)
 {tank} Grand Warlock Alythess - <tank_3> - <healer_2>
 
 {healer} Conflag Healer: <twins_conflag_healer>
