@@ -1,0 +1,26 @@
+Naxxramas 
+--------------------
+{Skull} = <tank_1> - (<healer_1>)
+{Cross} = <tank_2> - (<healer_2>)
+{Square}{Moon} = <tank_3> - (<healer_3>)
+
+|cGreenPatchwerk|r
+<tank_3> - (<healer_2>)
+<tank_1> - (<healer_1> + <healer_3>)
+<tank_2> - (<healer_4> + <healer_5>)
+
+|cGreenGrob Dispelling:|r <grob_dispeller>
+
+|cGreenGluth Kiting:|r [gluth_kiting]
+
+|cGreenHorseman Back:|r [horseman_back]
+
+|cRedMind Control Assignments|r
+{circle}{triangle} - <raz_mc_1>
+{diamond}{star} - <raz_mc_2>
+
+
+|cRedThaddius|r
+--------------- O +++++++++++++++
+Negative                 Positive
+               Entrance
