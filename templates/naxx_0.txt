@@ -19,6 +19,10 @@ Naxxramas
 {circle}{triangle} - <raz_mc_1>
 {diamond}{star} - <raz_mc_2>
 
+Tricks target: <tricks_1> -> <warlock_1>
+Tricks target: <tricks_2> -> <warlock_2>
+Warlock to precast: <warlock_3>
+
 
 |cRedThaddius|r
 --------------- O +++++++++++++++
