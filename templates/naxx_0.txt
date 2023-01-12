@@ -5,13 +5,14 @@ Naxxramas
 {Square}{Moon} = <tank_3> - (<healer_3>)
 
 |cGreenPatchwerk|r
-<tank_3> - (<healer_2>)
-<tank_1> - (<healer_1> + <healer_3>)
-<tank_2> - (<healer_4> + <healer_5>)
+<tank_2> - (<healer_1>)
+<tank_1> - (<healer_2> + <healer_4>)
+<tank_3> - (<healer_3> + <beacon_1>)
 
 |cGreenGrob Dispelling:|r <grob_dispeller>
 
 |cGreenGluth Kiting:|r [gluth_kiting]
+(|cShamanShamans|r & |cHunterHunters|r to drop slowing totems/traps)
 
 |cGreenHorseman Back:|r [horseman_back]
 
