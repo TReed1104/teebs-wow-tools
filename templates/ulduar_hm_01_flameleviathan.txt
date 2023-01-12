@@ -1,0 +1,33 @@
+Flame Leviathan (Hardmode)
+--------------------
+|cPurpleVehicles:|r
+|cBlueSeige Engine 1:|r [fl_seige_engine_1]
+|cBlueSeige Engine 2:|r [fl_seige_engine_2]
+|cBlueSeige Engine 3:|r [fl_seige_engine_3]
+|cBlueSeige Engine 4:|r [fl_seige_engine_4]
+|cBlueSeige Engine 5:|r [fl_seige_engine_5]
+|cGreenDemolisher 1:|r [fl_demolisher_1]
+|cGreenDemolisher 2:|r [fl_demolisher_2]
+|cGreenDemolisher 3:|r [fl_demolisher_3]
+|cGreenDemolisher 4:|r [fl_demolisher_4]
+|cGreenDemolisher 5:|r [fl_demolisher_5]
+|cOrangeChopper 1:|r <fl_chopper_1>
+|cOrangeChopper 2:|r <fl_chopper_2>
+|cOrangeChopper 3:|r <fl_chopper_3>
+|cOrangeChopper 4:|r <fl_chopper_4>
+|cOrangeChopper 5:|r <fl_chopper_5>
+
+|cPurpleAvoid Sky-beams (White, Boss, Yellow)|r
+
+|cBlueSeige Engines Interrupts:|r [fl_flame_jet_interrupts]
+|cBlueSet fire to tar with fire cannon|r
+
+|cGreenTurret Killers:|r [fl_turret_killers]
+|cGreenStack up Pyrite on boss|r
+|cGreenLaunch your passenger on Turrets|r
+|cGreenShoot down Pyrite and pickup|r
+|cGreenKill flower adds|r
+
+|cOrangePut tar infront of boss|r
+|cOrangePick-up Turret killers and take back to demos|r
+|cOrangeDrop tar in the corners for adds|r
