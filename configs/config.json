@@ -9,20 +9,20 @@
     },
     "angry-asignments-config": {
         "assignments": {
-            "tank_1": "Jim",
-            "tank_2": "Ahem",
-            "tank_3": "Light",
+            "tank_1": "Teebs",
+            "tank_2": "Light",
+            "tank_3": "Jim",
             "tank_4": "",
             "tank_special_1": "",
             "tank_special_2": "",
     
             "healer_1": "Andy",
-            "healer_2": "Enryk",
-            "healer_3": "Maccy",
-            "healer_4": "Stubb",
+            "healer_2": "Sucid",
+            "healer_3": "Alanai",
+            "healer_4": "Maccy",
             "healer_5": "",
             "beacon_1": "Andy",
-            "beacon_2": "Stubb",
+            "beacon_2": "",
 
             "interrupt_1": "",
             "interrupt_2": "",
@@ -32,18 +32,18 @@
             "mage_1": "",
             "mage_2": "",
     
-            "warlock_1": "Neo",
+            "warlock_1": "Korf",
             "warlock_2": "Navi",
             "warlock_3": "Bigbad",
 
             "tricks_1": "Orrio",
-            "tricks_2": "Coke",
+            "tricks_2": "",
 
             "grob_dispeller": "Andy",
             "gluth_kiting": ["Teebs", "Ahem"],
             "raz_mc_1": "Purple",
-            "raz_mc_2": "Enryk",
-            "horseman_back": ["Stubb", "Ahem", "Maccy"],
+            "raz_mc_2": "Avei",
+            "horseman_back": ["Andy", "Teebs", "Maccy"],
 
             "fl_seige_engine_1": ["Teebs", "Ysh"],
             "fl_seige_engine_2": ["Jim", "Akjaji"],
@@ -90,33 +90,41 @@
         },
         "roster": {
             "Teebs": "Red",
-            "Ahem": "Druid",
-            "Light": "Paladin",
-            "Jim": "Warrior",
-            "Brovo": "Warrior",
-            "Sucid": "Priest",
-            "Maccy": "Druid",
-            "Andy": "Paladin",
-            "Enryk": "Shaman",
-            "Alanai": "Shaman",
             "Ysh": "Red",
             "Meph": "Red",
             "Sili": "Red",
+
+            "Jim": "Warrior",
+            "Brovo": "Warrior",
+            "Rythmic": "Warrior",
+
+            "Light": "Paladin",
+            "Andy": "Paladin",
             "Stubb": "Paladin",
+
+            "Enryk": "Shaman",
+            "Alanai": "Shaman",
             "Whistle": "Shaman",
+
             "Coke": "Rogue",
             "Orrio": "Rogue",
-            "Killgem": "Warrior",
-            "Rythmic": "Warrior",
+            
+            "Killgem": "Druid",
+            "Maccy": "Druid",
+            "Ahem": "Druid",
             "Swift": "Druid",
             "Bryar": "Druid",
-            "Hillgem": "Druid",
+
             "Akjaji": "Hunter",
-            "Relentles": "Mage",
+            "Ruthie": "Hunter",
+
             "Binky": "Mage",
             "Candy": "Mage",
+
             "Purple": "Priest",
             "Avei": "Priest",
+            "Sucid": "Priest",
+
             "Bigbad": "Warlock",
             "Neo": "Warlock",
             "Korf": "Warlock",
