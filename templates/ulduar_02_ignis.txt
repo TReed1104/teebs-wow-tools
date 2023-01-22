@@ -1,5 +1,11 @@
 Ignis the Furnace Master
 --------------------
+Ignis Tank: <tank_1> - (<healer_1>)
+Constructs Tank: <tank_2> - (<healer_2>)
+Construct Killer: <ignis_construct_killer>
 
+- Stop casting during Flame Jets
+- Avoid Fires
+- Make sure the Constructs die away from the raid
 
 <heroism_ignis>
