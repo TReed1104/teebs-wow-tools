@@ -6,3 +6,6 @@ Ulduar
 
 Interrupts: [interrupts]
 Polymorphs: [polymorphs]
+
+Trash Tricks: <tricks_1> -> <tank_2>
+Boss Tricks: <tricks_1> -> <tricks_target_1>

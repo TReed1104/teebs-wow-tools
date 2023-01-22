@@ -1,5 +1,12 @@
 Kologarn
 --------------------
+Boss: <tank_1> -> <tank_2> - (<healer_1>)
+Rubbles: <tank_3> - (<healer_2>)
 
+- Kill Priority: |cRedRubble Adds > Right Arm > Main Body|r
+- Watch out for and kite the |cGreenEyebeams|r
+- Don't fall into the hole
+- Always have someone in melee range
+- Only Kill Left Arm when told to
 
 <heroism_kologran>

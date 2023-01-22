@@ -3,13 +3,13 @@ XT-002 Deconstructor
 XT-002: <tank_1> - (<healer_1>)
 Pummeler: <tank_2> - (<healer_2>)
 
-- Gravity Bomb |cRedLeft|r
-- Searing Bomb |cRedRight|r
-- Keep the raid topped up for |cRedTantrums|r
+- Gravity Bomb (|cPurplePurple|r) - |cRedLeft|r
+- Searing Bomb (White) - |cBlueRight|r
+- Keep the raid topped up for |cGreenTantrums|r
 
 |cPurpleHear Phases:|r
 - Burn the heart down, stop at 20% on the heart
-- Kill Adds: Boombots > Scrapbots > Pummeler
+- Kill Adds: |cRedBoombots > Scrapbots > Pummeler|r
 - Don't be near the Boombots when they explode
 
 <heroism_xt002>

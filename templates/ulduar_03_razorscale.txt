@@ -4,15 +4,15 @@ Razorscale
 <tank_1> - (<healer_1>)
 <tank_2> - (<healer_2>)
 <tank_3> - (<healer_3>)
+|cBlueHarpooner:|r <razorscale_harpooner>
 
-Harpoon Flinger: <razorscale_harpooner>
-- Kill Adds: Sentinels > Watchers > Guardians
+- Add Kill Priority: Sentinels > Watchers > Guardians
 - Dodge Blue Flame Patches
 - Never be infront of her when shes grounded
 
 |cPurplePhase 2:|r
-Tank Healer: (<healer_1>)
 Tank Order: <tank_1> -> <tank_2>
+Tank Healer: (<healer_1>)
 - Tank Swap every 2 stacks
 - Never be infront of her
 
