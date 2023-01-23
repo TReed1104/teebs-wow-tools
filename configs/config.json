@@ -61,7 +61,9 @@
             "council_interrupt_chain": "Jim",
             "council_interrupt_whirl": "Orrio",
             "auriaya_fearwards": ["Purple", "Avei", "Sucid"],
-            "freya_control": ["Jim", "Killgem", "Swift"]
+            "freya_control": ["Jim", "Killgem", "Swift"],
+            "yogg_portal_group_melee": ["Orrio", "Brovo", "Stubb", "Bryar", "Rythmic"],
+            "yogg_portal_group_ranged": ["Purple", "Avei", "Akjaji", "Binky", "Killgem"]
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",
