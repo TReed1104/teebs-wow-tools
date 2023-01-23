@@ -12,7 +12,5 @@ Tank Order: <tank_3> > <tank_1> > <tank_2> - (<healer_1> + <healer_4>)
 
 - Watch for the |cRedLightning beam|r between Thorim and the wall, move from this Area
 - Spread as much as possible to mitigate Chain Lightning, especially Melee
-- Keep Dispelling the roots
-- Avoid the Blizzard circling the outskirt of the Arena
 
 <heroism_thorim>

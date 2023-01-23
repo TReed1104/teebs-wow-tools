@@ -1,5 +1,16 @@
 Hodir
 --------------------
+Physical Tank: <tank_3> - (<healer_1>)
+Frost Tank: <tank_1> - (<healer_1>)
 
+|cBlueNPc Buffs:|r
+- Ranged/Healers stand near the fire-pyres
+- Use the sunbeams to boost DPS
+
+- Always prioritise freeing ice-blocks
+- Always be moving/jumping (|cBlueUnless Stood by a fire|r)
+- Avoid the blue circles
+- Always be dispelling!
+- |cRedOn Flash Freeze stand near the big circles and move ontop when they become snow!|r
 
 <heroism_hodir>
