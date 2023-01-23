@@ -1,5 +1,29 @@
 Freya
 --------------------
+Freya Tank: <tank_1> - (<healer_1>)
+Snaplasher Tank: <tank_2> - (<healer_3>)
+Adds Tank: <tank_3> - (<healer_4>)
 
+|cRedAlways Prioritise killing the spawning Trees|r
+
+|cPurplePhase 1: Adds|r
+|cBlueWave A - Trio|r
+|cBlue- Stun Snaplashers|r
+|cBlue- Face Water Elementals away|r
+|cBlue- Interrupt Storm Lasher Casts|r
+
+|cGreenWave B - Bombs|r
+|cGreen- Stack when they spawn|r
+|cGreen- Move away from dying Detonating Lashers|r
+|cGreen- Lasher Control order: [freya_control]|r
+|cGreen- Slow & Stun them|r
+
+|cYellowWave C - Big Tree|r
+|cYellow- Move away with Nature's fury|r
+|cYellow- Stand near mushrooms|r
+
+|cPurplePhase 2: Freya|r
+- Spread Out
+- Avoid Bombs spawning at players feet
 
 <heroism_freya>
