@@ -1,7 +1,10 @@
 Hodir
 --------------------
-Physical Tank: <tank_3> - (<healer_1>)
-Frost Tank: <tank_1> - (<healer_1>)
+Tank: <tank_1> - (<healer_1>)
+
+Singe Stackers: [hodir_singe_stackers]
+{triangle} Thunder Buffers: [hodir_pump_stackers_1]
+{diamond} Thunder Buffers: [hodir_pump_stackers_2]
 
 |cBlueNPc Buffs:|r
 - Ranged/Healers stand near the fire-pyres

@@ -1,8 +1,8 @@
 Iron Council
 --------------------
 {skull}|cBlueSteelbreaker|r: <tank_1> - (<healer_1>)
-{cross}|cGreenMolgeim|r: <tank_2> - (<healer_2>)
-{square}|cPurpleBrundir|r: <tank_3> - (<healer_3>)
+{cross}|cGreenMolgeim|r: <tank_3> - (<healer_2>)
+{square}|cPurpleBrundir|r: <tank_2> - (<healer_3>)
 
 |cRedKill Order:|r {skull}|cBlueSteelbreaker|r > {cross}|cGreenMolgeim|r > {square}|cPurpleBrundir|r
 

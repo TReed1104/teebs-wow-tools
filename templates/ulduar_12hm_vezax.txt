@@ -1,4 +1,4 @@
-General Vezax
+General Vezax (Hardmode)
 --------------------
 Vezax: <tank_1> - (<healer_1>)
 Searing Flames Interrupts: [interrupts]
@@ -23,4 +23,4 @@ Searing Flames Interrupts: [interrupts]
 |cGreen- Stand in the puddle it leaves for mana regen|r
 |cGreen- Never go above 5 stacks of Saronite Vapours|r
 
-<heroism_vezax>
+<heroism_hm_vezax>

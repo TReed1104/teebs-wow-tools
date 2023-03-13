@@ -1,5 +1,0 @@
-XT-002 Deconstructor (Hardmode)
---------------------
-
-
-<heroism_hm_xt002>

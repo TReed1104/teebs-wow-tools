@@ -1,14 +1,14 @@
-Freya
+Freya (Hardmode)
 --------------------
-Freya Tank: <tank_3> - (<healer_1>)
-Snaplasher Tank: <tank_1> - (<healer_3>)
-Adds Tank: <tank_2> - (<healer_4>)
+Freya Tank: <tank_3>
+Snaplasher Tank: <tank_1>
+Adds Tank: <tank_2>
 
-|cRedAlways Prioritise killing the spawning Trees|r
+|cRedAlways Prioritise killing the spawning Trees & Roots|r
 
 |cPurplePhase 1: Adds|r
 |cBlueWave A - Trio|r
-|cBlue- Stun Snaplashers|r
+|cBlue- Stun Snaplashers, Ranged focus|r
 |cBlue- Face Water Elementals away|r
 |cBlue- Interrupt Storm Lasher Casts|r
 
@@ -20,6 +20,7 @@ Adds Tank: <tank_2> - (<healer_4>)
 |cGreen- Slow & Stun them|r
 
 |cYellowWave C - Big Tree|r
+|cYellow-{healer}Healers Spread as directed|r
 |cYellow- Move away with Nature's fury|r
 |cYellow- Stand near mushrooms|r
 
@@ -27,4 +28,4 @@ Adds Tank: <tank_2> - (<healer_4>)
 - Spread Out
 - Avoid Bombs spawning at players feet
 
-<heroism_freya>
+<heroism_hm_freya>

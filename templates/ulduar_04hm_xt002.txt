@@ -1,10 +1,16 @@
-XT-002 Deconstructor
+XT-002 Deconstructor (Hardmode)
 --------------------
-XT-002: <tank_2> - (<healer_1>)
-Pummelers: <tank_3> - (<healer_2>)
+XT-002: <tank_3> - (<healer_1>)
+Pummelers: <tank_1> - (<healer_2>)
+
+Tantrum 1: <DSac_1>
+Tantrum 2: <DSac_2>
+Tantrum 3: <DSac_3>
+Tantrum 4: <DSac_1>
+Tantrum 5: <DSac_2>
 
 - Gravity Bomb (|cPurplePurple|r) - |cRedLeft|r
-- Searing Bomb (White) - |cBlueRight|r
+- Searing Bomb (White) - |cBlueRight of Boss|r
 - Keep the raid topped up for |cGreenTantrums|r
 
 |cPurpleHear Phases:|r
@@ -12,4 +18,4 @@ Pummelers: <tank_3> - (<healer_2>)
 - Kill Adds: |cRedBoombots > Scrapbots > Pummeler|r
 - Don't be near the Boombots when they explode
 
-<heroism_xt002>
+<heroism_hm_xt002>

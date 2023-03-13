@@ -11,7 +11,7 @@ Razorscale
 - Never be infront of her when shes grounded
 
 |cPurplePhase 2:|r
-Tank Order: <tank_1> -> <tank_2>
+Tank Order: <tank_2> -> <tank_3> -> <tank_4>
 Tank Healer: (<healer_1>)
 - Tank Swap every 2 stacks
 - Never be infront of her

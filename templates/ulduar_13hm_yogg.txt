@@ -1,4 +1,4 @@
-Yogg-Saron
+Yogg-Saron (Hardmode)
 --------------------
 |cPurplePhase 1:|r
 |cBlue- Kill Adds near Sara|r
@@ -26,4 +26,4 @@ Yogg-Saron
 |cYellow- DPS down Guardians so Thorim can kill them|r
 |cYellow- Watch your Sanity, use the green wells to restore if low|r
 
-<heroism_yogg>
+<heroism_hm_yogg_1>
