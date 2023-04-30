@@ -10,22 +10,22 @@
     "angry-asignments-config": {
         "assignments": {
             "tank_1": "Teebs",
-            "tank_2": "Jim",
-            "tank_3": "Light",
+            "tank_2": "Ahem",
+            "tank_3": "Jim",
             "tank_4": "",
-            "tank_special_1": "Bigbad",
+            "tank_special_1": "Neo",
             "tank_special_2": "",
     
             "healer_1": "Andy",
-            "healer_2": "Enryk",
+            "healer_2": "Navi",
             "healer_3": "Sucid",
             "healer_4": "Alanai",
             "healer_5": "Maccy",
-            "healer_6": "Stubb",
+            "healer_6": "Avei",
             "beacon_1": "Andy",
-            "beacon_2": "Stubb",
+            "beacon_2": "Navi",
 
-            "interrupts": ["Whistle", "Brov", "Rythmic"],
+            "interrupts": ["Orrio", "Coke"],
             "polymorphs": ["Binky", "Candy"],
 
             "tricks_1": "",
@@ -34,8 +34,8 @@
             "tricks_target_2": "",
 
             "DSac_1": "Andy",
-            "DSac_2": "Light",
-            "DSac_3": "Stubb",
+            "DSac_2": "Navi",
+            "DSac_3": "",
 
             "grob_dispeller": "",
             "gluth_kiting": ["", ""],
@@ -43,65 +43,60 @@
             "raz_mc_2": "",
             "horseman_back": ["", "", ""],
 
-            "fl_seige_engine_1": ["Ahem", "Korf"],
-            "fl_seige_engine_2": ["Teebs", "Akjaji"],
-            "fl_seige_engine_3": ["Light", "Candy"],
-            "fl_seige_engine_4": ["Bryar", "Purple"],
-            "fl_seige_engine_5": [""],
-            "fl_demolisher_1": ["Stubb", "Bigbad", "Avei"],
-            "fl_demolisher_2": ["Brov", "Binky", "Navi"],
-            "fl_demolisher_3": ["Coke", "Killgem", "Neo"],
-            "fl_demolisher_4": ["Whistle", "Swifty"],
-            "fl_demolisher_5": ["Rythmic", "Sili"],
-            "fl_chopper_1": "Sucid",
-            "fl_chopper_2": "Enryk",
-            "fl_chopper_3": "Alanai",
-            "fl_chopper_4": "Andy",
+            "fl_seige_engine_1": ["Jim", "Navi"],
+            "fl_seige_engine_2": ["Teebs", "Sucid"],
+            "fl_seige_engine_3": ["Swifty", "Akjaji"],
+            "fl_seige_engine_4": ["Ahem", "Solid"],
+            "fl_seige_engine_5": ["Purple", "Candy"],
+            "fl_demolisher_1": ["Maccy", "Whistle"],
+            "fl_demolisher_2": ["Stubb", "Killgem", "Binky"],
+            "fl_demolisher_3": ["Orrio", "Korf", "Avei"],
+            "fl_demolisher_4": ["Coke", "Vae"],
+            "fl_demolisher_5": ["Ysh", "Sili"],
+            "fl_chopper_1": "Enryk",
+            "fl_chopper_2": "Alanai",
+            "fl_chopper_3": "Andy",
+            "fl_chopper_4": "",
             "fl_chopper_5": "",
-            "fl_flame_jet_interrupts": ["Teebs", "Light", "Jim", "Ahem", "Rythmic"],
-            "fl_turret_killers": ["Bigbad", "Navi", "Candy", "Binky", "Ruthie"],
+            "fl_flame_jet_interrupts": ["Jim"],
+            "fl_turret_killers": ["Korf", "Killgem", "Avei", "Binky"],
 
-            "razorscale_harpooner": "Bryar",
-
-            "ignis_pothealer": "Alanai",
-            "ignis_construct_killer": "Killgem",
+            "razorscale_harpooner": "Maccy",
 
             "council_interrupt_chain": "Teebs",
             "council_interrupt_whirl": "Teebs",
 
-            "auriaya_fearwards": ["Avei", "Sucid", "Purple"],
+            "auriaya_fearwards": ["Avei", "Sucid"],
 
-            "freya_control_1": ["Killgem", "Teebs", "Meph", "Swifty"],
-            "freya_control_2": ["Killgem", "Ysh", "Sili", "Swifty"],
+            "freya_control_1": ["Killgem", "Teebs", "Jim", "Swifty"],
+            "freya_control_2": ["Killgem", "Sili", "Ysh", "Jim", "Swifty"],
+            "freya_interrupt_water": "Coke",
+            "freya_interrupt_storm": "Orrio",
             
-            "hodir_singe_stackers": ["Killgem", "Swifty", "Akjaji"],
-            "hodir_pump_stackers_1": ["Neo", "Bigbad", "Binky", "Avei"],
-            "hodir_pump_stackers_2": ["Navi", "Binky", "Candy", "Purple"],
+            "hodir_singe_stackers": ["Akjaji", "Solid"],
+            "hodir_pump_stackers_1": ["Avei", "Purple", "Killgem", "Binky", "Candy"],
 
-            "thorim_tank_order": ["Teebs", "Light"],
-            "thorim_melee_stack_1": ["Ysh", "Whistle", "Brov"],
-            "thorim_melee_stack_2": ["Stubb", "Coke", "Bryar"],
-            "thorim_melee_stack_3": ["Rythmic", "Sili"],
-
-            "thorim_pair_cross": ["Purple", "Akjaji"],
-            "thorim_pair_square": ["Candy", "Bigbad"],
+            "thorim_tank_order": ["Teebs", "Jim"],
+            "thorim_melee_stack_1": ["Ysh", "Coke", "Whistle"],
+            "thorim_melee_stack_2": ["Stubb", "Ahem", "Avei"],
+            "thorim_melee_stack_3": ["Sili", "Orrio", ""],
+            "thorim_pair_cross": ["Candy", "Akjaji"],
+            "thorim_pair_square": ["Maccy", "Purple"],
             "thorim_pair_circle": ["Binky", "Killgem"],
-            "thorim_pair_triangle": ["Alanai", "Neo"],
+            "thorim_pair_triangle": ["Alanai", "Vae"],
             "thorim_pair_diamond": ["Korf", "Swifty"],
-            "thorim_pair_moon": ["Sucid", "Navi"],
+            "thorim_pair_moon": ["Navi", "Sucid"],
 
-            "mimiron_air_tank": "Bigbad",
-            "mimiron_core_looter": "Coke",
-            "mimiron_fire_baiter": ["", "", ""],
+            "mimiron_core_looter": "Orrio",
 
             "vezax_star": "Killgem",
-            "vezax_group_1": ["Swifty", "Binky", "Navi", "Neo"],
-            "vezax_triangle": "Bigbad",
-            "vezax_group_2": ["Korf", "Avei", "Akjaji", "Sucid"],
+            "vezax_group_1": ["Binky", "Swifty", "Candy", "Korf", "Enryk"],
+            "vezax_triangle": "Avei",
+            "vezax_group_2": ["Vae", "Purple", "Akjaji", "Solid"],
             
-            "yogg_portal_group_1": ["Ysh", "Brov", "Meph", "Rythmic", "Bryar"],
-            "yogg_portal_group_2": ["Stubb", "Whistle", "Sili", "Maccy"],
-            "yogg_crusher_stoppers": ["Teebs", "Jim", "Light"]
+            "yogg_portal_group_1": ["Ysh", "Sili", "Whistle", "Orrio", "Killgem"],
+            "yogg_portal_group_2": ["Avei", "Enryk", "Coke", "Stubb", "Maccy"],
+            "yogg_crusher_stoppers": ["Teebs", "Jim", "Ahem"]
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",
@@ -118,7 +113,7 @@
             "heroism_mimiron": "Heroism: P4 Start",
             "heroism_vezax": "Heroism: First Shadow Crash",
             "heroism_yogg": "Heroism: Phase 2 First Brain",
-            "heroism_algalon": "Heroism: P2 Start, 25% HP on boss",
+            "heroism_algalon": "Heroism: On Pull, 5 seconds in",
 
             "heroism_hm_xt002": "Heroism: First Heart Phase",
             "heroism_hm_ironcouncil": "Heroism: P3 Start, On Second boss death",
@@ -126,8 +121,7 @@
             "heroism_hm_freya": "Heroism: Second Conservator",
             "heroism_hm_mimiron": "Heroism: P2 Start, 5 seconds in",
             "heroism_hm_vezax": "Heroism: P2 Start, Animus Spawns",
-            "heroism_hm_yogg_1": "Heroism: Phase 2 First Brain",
-            "heroism_hm_yogg_0": "Heroism: P3"
+            "heroism_hm_yogg_1": "Heroism: Phase 2 First Brain"
         },
         "roster": {
             "Teebs": "Deathknight",
@@ -142,6 +136,7 @@
             "Light": "Paladin",
             "Andy": "Paladin",
             "Stubb": "Paladin",
+            "Navi": "Paladin",
 
             "Enryk": "Shaman",
             "Alanai": "Shaman",
@@ -157,7 +152,7 @@
             "Bryar": "Druid",
 
             "Akjaji": "Hunter",
-            "Ruthie": "Hunter",
+            "Solid": "Hunter",
 
             "Binky": "Mage",
             "Candy": "Mage",
@@ -166,10 +161,9 @@
             "Avei": "Priest",
             "Sucid": "Priest",
 
-            "Bigbad": "Warlock",
+            "Vae": "Warlock",
             "Neo": "Warlock",
-            "Korf": "Warlock",
-            "Navi": "Warlock"
+            "Korf": "Warlock"
         }
     }
 }
