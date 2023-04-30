@@ -1,5 +1,23 @@
 Iron Counil (Hardmode)
 --------------------
+{skull}|cPurpleBrundir|r: <tank_1>
+{cross}|cGreenMolgeim|r: <tank_2>
+{square}|cBlueSteelbreaker|r: <tank_3>
 
+|cRedKill Order:|r {skull}|cPurpleBrundir|r > {cross}|cGreenMolgeim|r > {square}|cBlueSteelbreaker|r
+
+{skull}|cBlueSteelbreaker|r
+- Use Tank Cooldowns for Fusion Punch
+- Dispel Tank Debuff
+
+{cross}|cGreenMolgeim|r
+- Purge the Shield
+- Dodge the Rune of Death (Huge Green circle)
+- Stand in the Rune of Power (Little Blue Circles)
+
+{square}|cPurpleBrundir|r
+- Chain Lightning Interrupt: <tank_1>
+- Run from Overload
+- Run away from Lightning Tendrils
 
 <heroism_hm_ironcouncil>

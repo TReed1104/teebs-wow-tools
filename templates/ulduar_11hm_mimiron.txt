@@ -1,5 +1,29 @@
 Mimiron (Hardmode)
 --------------------
+Ground Tank: <tank_1> - (<healer_1>)
+Air Tank: <tank_special_1> - (<healer_1>)
+Core Looter: <mimiron_core_looter>
+Fire Baiter: <tank_2>
 
+|cPurplePhase 1:|r
+|cBlue- {tank}Tanks use Cooldown for Plastma Blast|r
+|cBlue- Move out of melee on |cBlueShock Blast|r|r
+|cBlue- Dodge the mines!|r
+|cBlue- Spread for the Napalm strikes|r
+
+|cPurplePhase 2:|r
+|cGreen- Dodge the Rockets, avoid the marked rune on the floor|r
+|cGreen- Never be infront of |cRedLaser Barrage|r|r
+|cGreen- Large raid damage ongoing|r
+
+|cPurplePhase 3:|r
+|cYellow- Kill Adds, loot Magnetic core|r
+|cYellow- Adds > Boss|r
+
+|cPurplePhase 4:|r
+|cBlue- Move out of melee on |cBlueShock Blast|r|r
+|cBlue- Dodge the mines!|r
+|cGreen- Never be infront of |cRedLaser Barrage|r|r
+|cRed- All Three need to die together|r
 
 <heroism_hm_mimiron>

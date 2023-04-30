@@ -1,5 +1,15 @@
 Algalon
 --------------------
+Tank 1: <tank_1>
+Tank 2: <tank_2>
 
+Star Killers: |cDruidKillgem|r, |cPriestAvei|r
+
+Big Bang: |cPriestAvei|r, |cPriestPurple|r
+
+Star 1: DSac |cPaladinAndy|r
+Star 2: Aura |cPaladinAndy|r
+Star 3: DSac |cPaladinNavi|r
+Star 4: Aura |cPaladinNavi|r
 
 <heroism_algalon>

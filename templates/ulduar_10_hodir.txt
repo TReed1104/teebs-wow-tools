@@ -1,19 +1,15 @@
 Hodir
 --------------------
-Tank: <tank_1> - (<healer_1>)
+Tank: <tank_3> - (<healer_1>)
 
-Singe Stackers: [hodir_singe_stackers]
+Singe Maintainers: [hodir_singe_stackers]
 {triangle} Thunder Buffers: [hodir_pump_stackers_1]
-{diamond} Thunder Buffers: [hodir_pump_stackers_2]
 
-|cBlueNPc Buffs:|r
-- Ranged/Healers stand near the fire-pyres
-- Use the sunbeams to boost DPS
-
-- Always prioritise freeing ice-blocks
-- Always be moving/jumping (|cBlueUnless Stood by a fire|r)
-- Avoid the blue circles
-- Always be dispelling!
-- |cRedOn Flash Freeze stand near the big circles and move ontop when they become snow!|r
+|cBlueSimplified Buffs:|r
+1 - Stack near the campfire on pull, get |cRedSinge|r up
+2 - Healers stay away from the caster stack
+3 - Run |cBlueStorm Cloud|r to the ranged stack
+4 - Never let |cRedSinge|r cOrangeDrop
+5 - Utilise |cYellowMoonbeams|r to boost DPS
 
 <heroism_hodir>

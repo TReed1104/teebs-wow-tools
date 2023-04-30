@@ -1,28 +1,28 @@
 Freya (Hardmode)
 --------------------
-Freya Tank: <tank_3>
+Freya Tank: <tank_2>
 Snaplasher Tank: <tank_1>
-Adds Tank: <tank_2>
+Adds Tank: <tank_3>
+
+|cPurpleTremor DSac 1:|r <DSac_1>
+|cPurpleTremor DSac 2:|r <DSac_2>
+|cPurpleTremor DSac 3:|r <DSac_3>
 
 |cRedAlways Prioritise killing the spawning Trees & Roots|r
 
-|cPurplePhase 1: Adds|r
 |cBlueWave A - Trio|r
-|cBlue- Stun Snaplashers, Ranged focus|r
-|cBlue- Face Water Elementals away|r
-|cBlue- Interrupt Storm Lasher Casts|r
+|cBlue- Stun+Kite Snaplashers <tank_1>, Ranged hard focus|r
+|cBlue- Face Water Spirit away: <tank_2>|r
+|cBlue- Interrupt Water Spirit Casts <freya_interrupt_water>|r
+|cBlue- Interrupt Storm Lasher Casts <freya_interrupt_storm>|r
 
 |cGreenWave B - Bombs|r
-|cGreen- Stack when they spawn|r
-|cGreen- Move away from dying Detonating Lashers|r
 |cGreen- Lasher Control Wave 1: [freya_control_1]|r
 |cGreen- Lasher Control Wave 2: [freya_control_2]|r
-|cGreen- Slow & Stun them|r
 
 |cYellowWave C - Big Tree|r
 |cYellow-{healer}Healers Spread as directed|r
 |cYellow- Move away with Nature's fury|r
-|cYellow- Stand near mushrooms|r
 
 |cPurplePhase 2: Freya|r
 - Spread Out

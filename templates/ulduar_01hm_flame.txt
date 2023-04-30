@@ -14,15 +14,12 @@ Flame Leviathan (Hardmode)
 |cOrangeChopper 1:|r <fl_chopper_1>
 |cOrangeChopper 2:|r <fl_chopper_2>
 |cOrangeChopper 3:|r <fl_chopper_3>
-|cOrangeChopper 4:|r <fl_chopper_4>
-|cOrangeChopper 5:|r <fl_chopper_5>
 
 |cPurpleAvoid Sky-beams (White, Boss, Yellow)|r
 
 |cBlueSeige Engines Interrupts:|r [fl_flame_jet_interrupts]
 |cBlueSet fire to tar with fire cannon|r
 
-|cGreenTurret Killers:|r [fl_turret_killers]
 |cGreenStack up Pyrite on boss|r
 |cGreenLaunch your passenger on Turrets|r
 |cGreenShoot down Pyrite and pickup|r

@@ -1,7 +1,7 @@
 Ignis the Furnace Master
 --------------------
-Ignis Tank: <tank_2> - (<healer_1>)
-Constructs Kiters: <tank_1> & <tank_3>
+Ignis Tank: <tank_3> - (<healer_1>)
+Constructs Kiters: <tank_1> & <tank_2>
 
 - Stop casting during Flame Jets
 - Avoid Fires

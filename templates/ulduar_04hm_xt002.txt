@@ -1,13 +1,12 @@
 XT-002 Deconstructor (Hardmode)
 --------------------
 XT-002: <tank_3> - (<healer_1>)
-Pummelers: <tank_1> - (<healer_2>)
 
 Tantrum 1: <DSac_1>
 Tantrum 2: <DSac_2>
-Tantrum 3: <DSac_3>
-Tantrum 4: <DSac_1>
-Tantrum 5: <DSac_2>
+Tantrum 3: <DSac_1>
+Tantrum 4: <DSac_2>
+Tantrum 5: <DSac_1>
 
 - Gravity Bomb (|cPurplePurple|r) - |cRedLeft|r
 - Searing Bomb (White) - |cBlueRight of Boss|r

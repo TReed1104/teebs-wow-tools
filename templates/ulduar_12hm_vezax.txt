@@ -18,9 +18,10 @@ Searing Flames Interrupts: [interrupts]
 |cPurple- {skull} Move and Dodge the incoming Shadow Crashes|r
 |cPurple- Stack inside its puddle for the buff|r
 
-|cGreenSaronite Vapours|r
-|cGreen- Kill Saronite Vapours ASAP|r
-|cGreen- Stand in the puddle it leaves for mana regen|r
-|cGreen- Never go above 5 stacks of Saronite Vapours|r
+|cGreenPhase 2|r
+|cGreen- Pop All Cooldowns to Burn down the Animuas|r
+|cGreen- 30 Seconds DSac:|r <DSac_1>
+|cGreen- Use Personals around 50 Seconds|r
+|cGreen- Use Healthstones!|r
 
 <heroism_hm_vezax>
