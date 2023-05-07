@@ -1,4 +1,4 @@
-Ulduar
+Trash Example
 --------------------
 {Skull} = <tank_1> - (<healer_1>)
 {Cross} = <tank_2> - (<healer_2>)
