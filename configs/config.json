@@ -11,7 +11,7 @@
         "assignments": {
             "tank_1": "Teebs",
             "tank_2": "Ahem",
-            "tank_3": "Jim",
+            "tank_3": "Light",
             "tank_4": "",
             "tank_special_1": "Neo",
             "tank_special_2": "",
@@ -35,7 +35,7 @@
 
             "DSac_1": "Andy",
             "DSac_2": "Navi",
-            "DSac_3": "",
+            "DSac_3": "Lightswing",
 
             "grob_dispeller": "",
             "gluth_kiting": ["", ""],
@@ -88,15 +88,16 @@
             "thorim_pair_moon": ["Navi", "Sucid"],
 
             "mimiron_core_looter": "Orrio",
+            "mimiron_fire_baiter": "Ahem",
 
             "vezax_star": "Killgem",
-            "vezax_group_1": ["Binky", "Swifty", "Korf", "Neo"],
+            "vezax_group_1": ["Binky", "Candy", "Vae", "Neo"],
             "vezax_triangle": "Avei",
-            "vezax_group_2": ["Vae", "Sucid", "Akjaji", "Solid"],
+            "vezax_group_2": ["Purple", "Enryk", "Whistle", "Solid"],
             
-            "yogg_portal_group_1": ["Ysh", "Sili", "Whistle", "Orrio", "Bryar"],
-            "yogg_portal_group_2": ["Stubb", "Meph", "Bryar", "Rythmic", "Maccy"],
-            "yogg_crusher_stoppers": ["Teebs", "Jim", "Ahem"]
+            "yogg_portal_group_1": ["Ysh", "Sili", "Whistle", "Orrio", "Coke"],
+            "yogg_portal_group_2": ["Stubb", "Meph", "Rythmic", "Killgem", "Maccy"],
+            "yogg_crusher_stoppers": ["Teebs", "Lightswing", "Ahem"]
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",
