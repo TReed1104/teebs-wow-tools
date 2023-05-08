@@ -35,7 +35,7 @@
 
             "DSac_1": "Andy",
             "DSac_2": "Navi",
-            "DSac_3": "Lightswing",
+            "DSac_3": "Light",
 
             "grob_dispeller": "",
             "gluth_kiting": ["", ""],
@@ -97,7 +97,7 @@
             
             "yogg_portal_group_1": ["Ysh", "Sili", "Whistle", "Orrio", "Coke"],
             "yogg_portal_group_2": ["Stubb", "Meph", "Rythmic", "Killgem", "Maccy"],
-            "yogg_crusher_stoppers": ["Teebs", "Lightswing", "Ahem"],
+            "yogg_crusher_stoppers": ["Teebs", "Light", "Ahem"],
 
             "togc_northbeasts_placeholder": "",
 
