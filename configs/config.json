@@ -122,7 +122,13 @@
             "heroism_hm_freya": "Heroism: Second Conservator",
             "heroism_hm_mimiron": "Heroism: P2 Start, 5 seconds in",
             "heroism_hm_vezax": "Heroism: P2 Start, Animus Spawns",
-            "heroism_hm_yogg_1": "Heroism: Phase 2 First Brain"
+            "heroism_hm_yogg_1": "Heroism: Phase 2 First Brain",
+
+            "heroism_togc_beasts": "Heroism: Phase 2 Worms",
+            "heroism_togc_jaraxxus": "Heroism: On Pull",
+            "heroism_togc_champions": "Heroism: On Pull",
+            "heroism_togc_twins": "Heroism: On Pull",
+            "heroism_togc_anub": "Heroism: Phase 3"
         },
         "roster": {
             "Teebs": "Deathknight",
