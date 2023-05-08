@@ -3,7 +3,7 @@ Mimiron (Hardmode)
 Ground Tank: <tank_1> - (<healer_1>)
 Air Tank: <tank_special_1> - (<healer_1>)
 Core Looter: <mimiron_core_looter>
-Fire Baiter: <tank_2>
+Fire Baiter: <mimiron_fire_baiter>
 
 |cPurplePhase 1:|r
 |cBlue- {tank}Tanks use Cooldown for Plastma Blast|r
