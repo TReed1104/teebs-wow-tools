@@ -4,7 +4,19 @@ Beasts of Northrend
 <tank_2> - <healer_1>
 
 |cPurpleGormok|r
+-
+-
+-
 
-|cPurpleAcidmaw & Dreadscale|r
 
-|cPurpleIcehowl|r
+|cGreenAcidmaw & Dreadscale|r
+-
+-
+-
+
+|cYellowIcehowl|r
+-
+-
+-
+
+<heroism_togc_beasts>

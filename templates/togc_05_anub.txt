@@ -1,11 +1,22 @@
 Anub'arak
 --------------------
 {Skull} = <tank_1> - (<healer_1>)
-{Cross} = <tank_2> - (<healer_2>)
-{Square}{Moon} = <tank_3> - (<healer_3>)
+West Adds <tank_2> - (<healer_2>)
+East Adds <tank_3> - (<healer_2>)
 
-Interrupts: [interrupts]
-Polymorphs: [polymorphs]
+|cPurplePhase 1:|r
+-
+-
+-
 
-Trash Tricks: <tricks_1> -> <tank_2>
-Boss Tricks: <tricks_1> -> <tricks_target_1>
+|cGreenPhase 2:|r
+-
+-
+-
+
+|cYellowPhase 3:|r
+-
+-
+-
+
+<heroism_togc_anub>
