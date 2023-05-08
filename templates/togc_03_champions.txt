@@ -1,0 +1,11 @@
+Faction Champions
+--------------------
+{Skull} = <tank_1> - (<healer_1>)
+{Cross} = <tank_2> - (<healer_2>)
+{Square}{Moon} = <tank_3> - (<healer_3>)
+
+Interrupts: [interrupts]
+Polymorphs: [polymorphs]
+
+Trash Tricks: <tricks_1> -> <tank_2>
+Boss Tricks: <tricks_1> -> <tricks_target_1>

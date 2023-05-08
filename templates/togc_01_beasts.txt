@@ -1,0 +1,10 @@
+Beasts of Northrend
+--------------------
+<tank_1> - <healer_1>
+<tank_2> - <healer_1>
+
+|cPurpleGormok|r
+
+|cPurpleAcidmaw & Dreadscale|r
+
+|cPurpleIcehowl|r
