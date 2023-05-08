@@ -97,7 +97,27 @@
             
             "yogg_portal_group_1": ["Ysh", "Sili", "Whistle", "Orrio", "Coke"],
             "yogg_portal_group_2": ["Stubb", "Meph", "Rythmic", "Killgem", "Maccy"],
-            "yogg_crusher_stoppers": ["Teebs", "Lightswing", "Ahem"]
+            "yogg_crusher_stoppers": ["Teebs", "Lightswing", "Ahem"],
+
+            "togc_northbeasts_placeholder": "",
+
+            "togc_jaraxxus_dispellers": [],
+            "togc_jaraxxus_decurser": [],
+            "togc_jaraxxus_flesh_healer": "",
+            "togc_jaraxxus_legion_healer": "",
+
+            "togc_champions_control_shaman": [],
+            "togc_champions_control_priest": "",
+            "togc_champions_control_paladin": "",
+            "togc_champions_control_boomkin": "",
+            "togc_champions_control_tree": "",
+            "togc_champions_control_warlock": "",
+            "togc_champions_control_warrior": "",
+            "togc_champions_control_dk": "",
+            
+            "togc_twins_white_soakers": [],
+
+            "togc_anubarak_placeholder": ""
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",
