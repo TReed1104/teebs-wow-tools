@@ -87,8 +87,12 @@
             "thorim_pair_diamond": ["Korf", "Swifty"],
             "thorim_pair_moon": ["Navi", "Sucid"],
 
-            "mimiron_core_looter": "Orrio",
+            "mimiron_core_looter": ["Orrio", "Coke"],
             "mimiron_fire_baiter": "Ahem",
+            "mimiron_p2_stack_square": ["", "", ""],
+            "mimiron_p2_stack_triangle": ["", "", ""],
+            "mimiron_p2_stack_star": ["", "", ""],
+            "mimiron_heat_waves": ["", "", ""],
 
             "vezax_star": "Killgem",
             "vezax_group_1": ["Binky", "Candy", "Vae", "Neo"],

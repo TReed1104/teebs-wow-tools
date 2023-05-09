@@ -2,23 +2,25 @@ Mimiron (Hardmode)
 --------------------
 Ground Tank: <tank_1> - (<healer_1>)
 Air Tank: <tank_special_1> - (<healer_1>)
-Core Looter: <mimiron_core_looter>
+Core Looter: [mimiron_core_looter]
 Fire Baiter: <mimiron_fire_baiter>
 
 |cPurplePhase 1:|r
 |cBlue- {tank}Tanks use Cooldown for Plastma Blast|r
 |cBlue- Move out of melee on |cBlueShock Blast|r|r
-|cBlue- Dodge the mines!|r
-|cBlue- Spread for the Napalm strikes|r
+|cBlue- Spread 5 yards the Napalm strikes|r
 
 |cPurplePhase 2:|r
-|cGreen- Dodge the Rockets, avoid the marked rune on the floor|r
-|cGreen- Never be infront of |cRedLaser Barrage|r|r
-|cGreen- Large raid damage ongoing|r
+|cGreen- Avoid the Rockets and the PewPew|r
+{square}: [mimiron_p2_stack_square]
+{triangle}: [mimiron_p2_stack_triangle]
+{star}: [mimiron_p2_stack_star]
+Heat Wave Cooldowns: [mimiron_heat_waves]
 
 |cPurplePhase 3:|r
-|cYellow- Kill Adds, loot Magnetic core|r
-|cYellow- Adds > Boss|r
+|cYellow- Kill Assault bots ASAP, loot Magnetic core|r
+|cYellow- Bomb kite out <tank_2>|r
+|cYellow- Kill close Fire bots|r
 
 |cPurplePhase 4:|r
 |cBlue- Move out of melee on |cBlueShock Blast|r|r

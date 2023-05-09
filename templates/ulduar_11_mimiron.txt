@@ -2,7 +2,7 @@ Mimiron
 --------------------
 Ground Tank: <tank_1> - (<healer_1>)
 Air Tank: <tank_special_1> - (<healer_1>)
-Core Looter: <mimiron_core_looter>
+Core Looter: [mimiron_core_looter]
 
 |cPurplePhase 1:|r
 |cBlue- {tank}Tanks use Cooldown for Plastma Blast|r
