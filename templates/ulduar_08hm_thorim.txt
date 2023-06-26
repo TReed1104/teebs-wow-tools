@@ -1,7 +1,7 @@
 Thorim
 --------------------
 |cPurplePhase 1:|r
-Arena: <tank_1> - (<healer_1> + <healer_3>)
+Arena: <tank_3> - (<healer_1> + <healer_3>)
 Gauntlet: <tank_2> - (<healer_2> + <healer_4> + <healer_5>)
 - Melee Arena
 - Ranged Gauntlet

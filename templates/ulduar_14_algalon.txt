@@ -1,15 +1,21 @@
 Algalon
 --------------------
-Tank 1: <tank_1>
+Tank 1: <tank_3>
 Tank 2: <tank_2>
 
-Star Killers: |cDruidKillgem|r, |cPriestAvei|r
+Star Killers: |cPriestAvei|r
+Big Bang Soaker: |cPriestAvei|r
 
-Big Bang: |cPriestAvei|r, |cPriestPurple|r
-
-Star 1: DSac |cPaladinAndy|r
-Star 2: Aura |cPaladinAndy|r
-Star 3: DSac |cPaladinNavi|r
-Star 4: Aura |cPaladinNavi|r
+Star CDs
+1 - Shadow Potion
+2 - DSac: <DSac_1>
+3 - Aura Mastery: <AM_1>
+4 - Black Hole
+5 - DSac: <DSac_2>
+6 - Aura Mastery: <AM_2>
+7 - DSac: <DSac_3>
+8 - Black Hole
+9 - DSac: <DSac_1>
+10 - Aura Mastery: <AM_1>
 
 <heroism_algalon>

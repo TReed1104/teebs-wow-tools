@@ -1,7 +1,28 @@
 Faction Champions
 --------------------
--
--
--
+- Kill Priority: |cShamanResto Shaman|r > |cPriestDisc Priest|r > |cPaladinHoly Paladin|r > |cHunterHunter|r > |cRogueRogue|r > |cDruidTree|r
+- Secondary Priority: |cWarlockWarlock|r > |cWarriorWarrior|r > |cDeathknightDeathknight|r > |cPaladinRet Pally|r > |cDruidMoonkin|r > |cPriestShadow Priest|r > |cMageMage|r
+
+Group 1 - {healer}<healer_1>
+Group 2 - {healer}<healer_2>
+Group 3 - {healer}<healer_3>
+Group 4 - {healer}<healer_4>
+Group 5 - {healer}<healer_5>
+
+Pull: <togc_champions_pull>
+|cDruidTree|r Banish: <togc_champions_control_tree>
+|cShamanResto Shaman|r Control: [togc_champions_control_shaman]
+|cPriestDisc Priest|r Control: <togc_champions_control_priest>
+|cPaladinHoly Paladin|r Control: <togc_champions_control_paladin>
+|cRogueRogue|r Control: [togc_champions_control_rogue]
+|cDruidBoomkin|r Control: <togc_champions_control_boomkin>
+|cWarlockWarlock|r Control: [togc_champions_control_warlock]
+|cPriestShadow Priest|r Control: [togc_champions_control_spriest]
+|cMageMage|r Control: [togc_champions_control_mage]
+|cWarriorWarrior|r Control: [togc_champions_control_warrior]
+
+- Maintain MS Debuff: <mortal_strike>
+- Priests Mass Dispel as frequently as possible
+- Untankable, so kite if they come for you or personal cooldowns
 
 <heroism_togc_champions>

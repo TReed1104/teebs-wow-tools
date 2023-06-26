@@ -1,12 +1,21 @@
 Twin Val'kyr
 --------------------
-Lightbane: <tank_1> - (<healer_1>)
-Darkbane: <tank_2> - (<healer_2>)
+Lightbane: <tank_2> - ({healer}<healer_1>)
+Darkbane: <tank_3> - ({healer}<healer_2>)
 
 White Orb Soakers: [togc_twins_white_soakers]
+Touch of Light/Dark Healer: {healer}<healer_5>
 
--
--
--
+|cPriestLightbane Vortex:|r <togc_twins_white_cooldowns>
+|cPriest- DSac + Fire Aura Mastery|r
+
+|cPurpleDarkbane Vortex:|r <togc_twins_black_cooldowns>
+|cPurple- DSac + Shadow Aura Mastery|r
+
+|cPriest- White Buffers: stay at range and block all white orbs coming towards the raid|r
+|cPurple- Purple Buffers: stack tight and nuke |cPriestLightbane|r|r
+|cPurple- Use Cooldowns to burn Darkbane's shield when cast|r
+|cGreen- {tank}Tanks uses cooldowns when the opposite Val'kyr Bubbles|r
+
 
 <heroism_togc_twins>

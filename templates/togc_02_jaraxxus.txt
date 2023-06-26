@@ -3,12 +3,17 @@ Lord Jaraxxus
 Jaraxxus <tank_1> - (<healer_1>)
 Adds <tank_2> - (<healer_2>)
 
-Interrupts: <Interrupts>
+|cPurpleIgnite Flesh Healers: [togc_jaraxxus_flesh_healer]|r
+|cPurpleDecursing: [togc_jaraxxus_decurser]|r
 
-Dispellers: [togc_jaraxxus_dispellers]
+|cRedFel Fireball Interrupts: [interrupts]|r
+|cRedNether Power Purgers: [togc_jaraxxus_dispellers]|r
 
--
--
--
+|cYellow- Interrupt Fel Fireball|r
+|cYellow- Kill Priority: Portals > Volcanos > Adds > Jaraxxus|r
+|cYellow- Run Legion Flame away from other players|r
+|cYellow- Ranged Spread ~6 yards|r
+|cYellow- Avoid fire patches|r
+|cYellow- Decurse Touch of Jaraxxus|r
 
 <heroism_togc_jaraxxus>

@@ -1,6 +1,6 @@
 Hodir
 --------------------
-Tank: <tank_3> - (<healer_1>)
+Tank: <tank_2> - (<healer_1>)
 
 Singe Maintainers: [hodir_singe_stackers]
 {triangle} Thunder Buffers: [hodir_pump_stackers_1]

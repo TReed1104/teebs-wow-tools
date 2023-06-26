@@ -1,6 +1,6 @@
 Kologarn
 --------------------
-Boss: <tank_1> -> <tank_2> - (<healer_1>)
+Boss: <tank_2> - (<healer_1>)
 Rubbles: <tank_3> - (<healer_2>)
 
 - Kill Priority: |cRedRubble Adds > Right Arm > Main Body|r
