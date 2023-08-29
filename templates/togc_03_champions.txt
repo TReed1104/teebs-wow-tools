@@ -3,12 +3,6 @@ Faction Champions
 - Kill Priority: |cShamanResto Shaman|r > |cPriestDisc Priest|r > |cPaladinHoly Paladin|r > |cHunterHunter|r > |cRogueRogue|r > |cDruidTree|r
 - Secondary Priority: |cWarlockWarlock|r > |cWarriorWarrior|r > |cDeathknightDeathknight|r > |cPaladinRet Pally|r > |cDruidMoonkin|r > |cPriestShadow Priest|r > |cMageMage|r
 
-Group 1 - {healer}<healer_1>
-Group 2 - {healer}<healer_2>
-Group 3 - {healer}<healer_3>
-Group 4 - {healer}<healer_4>
-Group 5 - {healer}<healer_5>
-
 Pull: <togc_champions_pull>
 |cDruidTree|r Banish: <togc_champions_control_tree>
 |cShamanResto Shaman|r Control: [togc_champions_control_shaman]

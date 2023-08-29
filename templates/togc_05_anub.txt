@@ -1,12 +1,11 @@
 Anub'arak
 --------------------
-Anub: <tank_1> - (<healer_1> & <healer_2> Beacon)
-{skull}{cross} <tank_2> - (<healer_1>)
-{square}{moon} <tank_3> - (<healer_2>)
+Anub: <tank_2>
+Left <tank_3>
+Right <tank_5>
 
-|cBluePenetrating Cold 1 & 2 - <healer_3>|r
-|cBluePenetrating Cold 3 & 4 - <healer_4>|r
-|cBluePenetrating Cold 5 - <healer_6>|r
+|cBluePenetrating Cold 1 & 2 - <healer_4>|r
+|cBluePenetrating Cold 3 & 4 & 5 - <healer_3>|r
 
 |cRedFrost Orb Dropper: <togc_anubarak_orb_dropper>|r
 
@@ -14,13 +13,10 @@ Anub: <tank_1> - (<healer_1> & <healer_2> Beacon)
 |cPurple- Assigned Orb dropped to place the 6 ice patches|r
 |cPurple- Tank Anub & Burrowers ontop of the Ice patches|r
 |cPurple- Kill Burrowers before the next wave spawns|r
-|cRed- {skull} Interrupt: <togc_anubarak_interrupter_1>|r
-|cRed- {cross} Interrupt: <togc_anubarak_interrupter_2>|r
-|cRed- {square} Interrupt: <togc_anubarak_interrupter_3>|r
-|cRed- {moon} Interrupt: <togc_anubarak_interrupter_4>|r
 
 |cGreenPhase 2:|r
-|cGreen- Fixated target run away, aim to navigate Anub under the futhest away Ice Patch and to kite for ~30 seconds|r
+|cGreen- Fixated target run away, aim to kite for ~30 seconds|r
+|cGreen- Paladins to BoP the fixated target when called for|r
 |cGreen- Raid clean up Burrowers and little adds|r
 
 |cYellowPhase 3:|r

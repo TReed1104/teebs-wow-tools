@@ -1,6 +1,6 @@
 Mimiron (Hardmode)
 --------------------
-Ground Tank: <tank_3> - (<healer_1>)
+Ground Tank: <tank_2> - (<healer_1>)
 Air Tank: <tank_special_1> - (<healer_1>)
 Core Looter: [mimiron_core_looter]
 

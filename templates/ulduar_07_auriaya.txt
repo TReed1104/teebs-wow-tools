@@ -1,7 +1,7 @@
 Auriaya
 --------------------
-Auriaya Tank: <tank_1> - (<healer_1>)
-Defender Tank: <tank_2> - (<healer_3>)
+Auriaya Tank: <tank_2>
+Defender Tank: <tank_3>
 
 |cPurpleTank Fear Ward Order:|r [auriaya_fearwards]
 |cBlueInterrupt Order:|r [interrupts]

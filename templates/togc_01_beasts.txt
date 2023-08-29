@@ -1,9 +1,9 @@
 Beasts of Northrend
 --------------------
-|cPurpleGormok:|r {tank} <tank_3> > <tank_2>  - (<healer_1>)
-|cGreenDreadscale:|r {tank} <tank_3> - (<healer_1>)
-|cGreenAcidmaw:|r {tank} <tank_2> - (<healer_2>)
-|cYellowIcehowl:|r {tank} <tank_3> > <tank_2>  - (<healer_1>)
+|cPurpleGormok:|r {tank} <tank_2> > <tank_3> > <tank_2>
+|cGreenMobile Worm:|r {tank} <tank_1> > <tank_2> > <tank_3>
+|cGreenStationary Worm:|r {tank} <tank_1>
+|cYellowIcehowl:|r {tank} <tank_3>
 
 |cPurpleGormok|r
 |cPurple- Run Snobolds into melee range|r
@@ -13,6 +13,7 @@ Beasts of Northrend
 |cPurple- Casters stay at over 15 yards|r
 
 |cGreenAcidmaw & Dreadscale|r
+|cRed- SPREAD 10 YARDS|r
 |cGreen- Green Debuff Healers: [togc_northbeasts_bile_healers]|r
 |cGreen- Nuke Dreadscale, aim for <5% at submerge|r
 |cGreen- Bring Green debuff to Dreadscale tank {circle}|r
@@ -20,6 +21,7 @@ Beasts of Northrend
 |cGreen- Kite Acidmaw when emerged|r
 
 |cYellowIcehowl|r
+|cYellow- Dispel Frenzy: <togc_northbeasts_icehowl_frenzy>|r
 |cYellow- Spread out to minimise Ice breath damage|r
 |cYellow- Raid Cooldowns: [togc_northbeasts_icehowl_cooldowns]|r
 |cYellow- Dodge the charge left/right|r

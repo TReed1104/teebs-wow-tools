@@ -1,8 +1,8 @@
 Iron Counil (Hardmode)
 --------------------
-{skull}|cPurpleBrundir|r: <tank_2>
-{cross}|cGreenMolgeim|r: <tank_2>
-{square}|cBlueSteelbreaker|r: <tank_3>
+{skull}|cPurpleBrundir|r: <tank_3>
+{cross}|cGreenMolgeim|r: <tank_3>
+{square}|cBlueSteelbreaker|r: <tank_2>
 
 |cRedKill Order:|r {skull}|cPurpleBrundir|r > {cross}|cGreenMolgeim|r > {square}|cBlueSteelbreaker|r
 

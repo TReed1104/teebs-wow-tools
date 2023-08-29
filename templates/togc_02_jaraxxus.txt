@@ -1,10 +1,9 @@
 Lord Jaraxxus
 --------------------
-Jaraxxus <tank_1> - (<healer_1>)
-Adds <tank_2> - (<healer_2>)
+Jaraxxus <tank_2>
+Adds <tank_3>
 
 |cPurpleIgnite Flesh Healers: [togc_jaraxxus_flesh_healer]|r
-|cPurpleDecursing: [togc_jaraxxus_decurser]|r
 
 |cRedFel Fireball Interrupts: [interrupts]|r
 |cRedNether Power Purgers: [togc_jaraxxus_dispellers]|r

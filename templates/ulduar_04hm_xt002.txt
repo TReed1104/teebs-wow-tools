@@ -1,6 +1,6 @@
 XT-002 Deconstructor (Hardmode)
 --------------------
-XT-002: <tank_3> - (<healer_1>)
+XT-002: <tank_2> - (<healer_1>)
 
 Tantrum 1: <DSac_1>
 Tantrum 2: <DSac_2>

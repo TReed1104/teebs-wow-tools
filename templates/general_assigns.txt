@@ -1,0 +1,17 @@
+Assigns
+--------------------
+Tricks <tricks_1>: <tricks_target_1>
+Tricks <tricks_2>: <tricks_target_2>
+
+Misdirect <misdirect_1>: <misdirect_target_1>
+Misdirect <misdirect_2>: <misdirect_target_2>
+
+Soulstones <soulstone_1>: <soulstone_target_1>
+Soulstones <soulstone_2>: <soulstone_target_2>
+Soulstones <soulstone_3>: <soulstone_target_3>
+
+DSAc 1: <DSac_1>
+DSAc 2: <DSac_2>
+DSAc 3: <DSac_3>
+Aura Mastery 1: <AM_1>
+Aura Mastery 2: <AM_2>
