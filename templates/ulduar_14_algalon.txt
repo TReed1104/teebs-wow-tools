@@ -4,7 +4,7 @@ Tank 1: <tank_2>
 Tank 2: <tank_3>
 
 Star Killers: <algalon_star_killer>
-Big Bang Soaker: <algalon_bb_soaker>
+Big Bang Soaker: [algalon_bb_soaker]
 
 Star CDs
 1 - Shadow Potion
@@ -13,9 +13,9 @@ Star CDs
 4 - Black Hole
 5 - DSac: <DSac_2>
 6 - Aura Mastery: <AM_2>
-7 - DSac: <DSac_3>
+7 - DSac: <DSac_1>
 8 - Black Hole
-9 - DSac: <AM_1>
+9 - Aura Mastery: <AM_1>
 10 - Aura Mastery: <DSac_2>
 
 <heroism_algalon>

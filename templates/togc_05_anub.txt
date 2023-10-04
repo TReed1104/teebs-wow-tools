@@ -1,6 +1,6 @@
 Anub'arak
 --------------------
-Anub: <tank_2>
+Anub: <tank_4>
 Left <tank_3>
 Right <tank_5>
 

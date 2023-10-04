@@ -1,8 +1,8 @@
 Razorscale
 --------------------
 |cPurplePhase 1:|r
-<tank_2> - (<healer_1>)
-<tank_3> - (<healer_2>)
+<tank_3> - (<healer_1>)
+<tank_4> - (<healer_2>)
 |cBlueHarpooner:|r <razorscale_harpooner>
 
 - Add Kill Priority: Sentinels > Watchers > Guardians

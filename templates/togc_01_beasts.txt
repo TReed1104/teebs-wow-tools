@@ -1,9 +1,10 @@
 Beasts of Northrend
 --------------------
-|cPurpleGormok:|r {tank} <tank_2> > <tank_3> > <tank_2>
-|cGreenMobile Worm:|r {tank} <tank_1> > <tank_2> > <tank_3>
+|cPurpleGormok:|r {tank} <tank_1> > <tank_2> > <tank_1>
+|cGreenMobile Worm:|r {tank} <tank_2> > <tank_4>
 |cGreenStationary Worm:|r {tank} <tank_1>
-|cYellowIcehowl:|r {tank} <tank_3>
+|cGreenPost-Submerge Worm:|r {tank} <tank_4> (Sacrifice) > <tank_1>
+|cYellowIcehowl:|r {tank} <tank_2>
 
 |cPurpleGormok|r
 |cPurple- Run Snobolds into melee range|r

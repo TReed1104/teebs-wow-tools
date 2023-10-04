@@ -28,30 +28,30 @@
 
             "interrupts": ["Orrio", "Coke"],
             "polymorphs": ["Binky", "Azure"],
-            "mortal_strike": "Seig",
+            "mortal_strike": "Sieg",
 
             "tricks_1": "Orrio",
             "tricks_2": "Coke",
-            "tricks_target_1": "Vae",
+            "tricks_target_1": "Neo",
             "tricks_target_2": "Korf",
-            "misdirect_1": "Seig",
+            "misdirect_1": "Sieg",
             "misdirect_2": "Akjaji",
-            "misdirect_target_1": "Jim",
+            "misdirect_target_1": "Teebs",
             "misdirect_target_2": "Light",
             
             "soulstone_1": "Neo",
             "soulstone_2": "Vae",
             "soulstone_3": "Korf",
             "soulstone_target_1": "Andy",
-            "soulstone_target_2": "Navi",
+            "soulstone_target_2": "Stubb",
             "soulstone_target_3": "Sucid",
 
-            "DSac_1": "Teebs",
-            "DSac_2": "Stubb",
-            "DSac_3": "Light",
+            "DSac_1": "Light",
+            "DSac_2": "Navi",
+            "DSac_3": "",
 
-            "AM_1": "Teebs",
-            "AM_2": "Stubb",
+            "AM_1": "Stubb",
+            "AM_2": "Navi",
             "AM_3": "",
 
             "grob_dispeller": "",
@@ -61,21 +61,21 @@
             "horseman_back": ["", "", ""],
 
             "fl_seige_engine_1": ["Jim", "Maccy"],
-            "fl_seige_engine_2": ["Killgem", "Sucid"],
-            "fl_seige_engine_3": ["Ahem", "Navi"],
-            "fl_seige_engine_4": ["Whistle", "Azure"],
-            "fl_seige_engine_5": ["Light", "Seig"],
+            "fl_seige_engine_2": ["Light", "Sucid"],
+            "fl_seige_engine_3": ["Ahem", "Akjaji"],
+            "fl_seige_engine_4": ["Whistle", "Spungie"],
+            "fl_seige_engine_5": ["Bryar", "Navi"],
             "fl_demolisher_1": ["Rythmic", "Swifty"],
-            "fl_demolisher_2": ["Bryar", "Vae", "Binky"],
-            "fl_demolisher_3": ["Orrio", "Purple", "Korf"],
-            "fl_demolisher_4": ["Sili", "Candy"],
-            "fl_demolisher_5": ["Brov", "Teebs"],
+            "fl_demolisher_2": ["Orrio", "Spore", "Neo"],
+            "fl_demolisher_3": ["Coke", "Purple", "Korf"],
+            "fl_demolisher_4": ["Ysh", "Sili"],
+            "fl_demolisher_5": ["Stubb", "Sieg"],
             "fl_chopper_1": "Enryk",
             "fl_chopper_2": "Alanai",
-            "fl_chopper_3": "Andy",
+            "fl_chopper_3": "Teebs",
             "fl_chopper_4": "",
             "fl_chopper_5": "",
-            "fl_flame_jet_interrupts": ["Jim"],
+            "fl_flame_jet_interrupts": ["Jim", "Light", "Ahem"],
             "fl_turret_killers": ["Purple", "Neo", "Binky", "Vae"],
 
             "razorscale_harpooner": "Maccy",
@@ -83,54 +83,54 @@
             "council_interrupt_chain": "Teebs",
             "council_interrupt_whirl": "Teebs",
 
-            "auriaya_fearwards": ["Avei", "Sucid", "Purple"],
+            "auriaya_fearwards": ["Purple", "Sucid"],
 
-            "freya_control_1": ["Teebs", "Meph", "Whistle", "Swifty"],
-            "freya_control_2": ["Ysh", "Sili", "Whistle", "Swifty"],
+            "freya_control_1": ["Teebs", "Jim", "Spungie", "Swifty"],
+            "freya_control_2": ["Ysh", "Sili", "Jim", "Spungie", "Swifty"],
             "freya_interrupt_water": "Coke",
             "freya_interrupt_storm": "Orrio",
             
-            "hodir_singe_stackers": ["Maccy", "Akjaji"],
-            "hodir_pump_stackers_1": ["Avei", "Binky", "Vae", "Neo", "Korf"],
+            "hodir_singe_stackers": ["Akjaji", "Sieg"],
+            "hodir_pump_stackers_1": ["Neo", "Korf", "Spore", "Swifty", "Purple"],
 
-            "thorim_tank_order": ["Jim", "Light"],
-            "thorim_melee_stack_1": ["Ysh", "Rythmic", "Killgem"],
-            "thorim_melee_stack_2": ["Teebs", "Orrio", "Coke"],
-            "thorim_melee_stack_3": ["Whistle", "Sili", "Brov"],
-            "thorim_pair_cross": ["Purple", "Avei"],
-            "thorim_pair_square": ["Maccy", "Azure"],
-            "thorim_pair_circle": ["Binky", "Vae"],
-            "thorim_pair_triangle": ["Alanai", "Neo"],
-            "thorim_pair_diamond": ["Korf", "Swifty"],
-            "thorim_pair_moon": ["Akjaji", "Sucid"],
+            "thorim_tank_order":    ["Jim", "Light"],
+            "thorim_melee_stack_1": ["Stubb", "Rythmic", "Whistle"],
+            "thorim_melee_stack_2": ["Bryar", "Orrio", "Ysh"],
+            "thorim_melee_stack_3": ["Coke", "Sili", "Teebs"],
+            "thorim_pair_cross":    ["Ahem", "Purple"],
+            "thorim_pair_square":   ["Maccy", "Neo"],
+            "thorim_pair_circle":   ["Spore", "Spungie"],
+            "thorim_pair_triangle": ["Alanai", "Sieg"],
+            "thorim_pair_diamond":  ["Korf", "Swifty"],
+            "thorim_pair_moon":     ["Sucid", "Akjaji"],
 
             "mimiron_core_looter": ["Orrio"],
             "mimiron_fire_baiter": "Ahem",
             "mimiron_heat_waves": ["Andy", "Navi", "Light"],
 
-            "vezax_group_1": ["Binky", "Vae", "Swifty", "Korf", "Neo"],
-            "vezax_group_2": ["Avei", "Purple", "Azure", "Akjaji", "Sucid"],
+            "vezax_group_1": ["Neo", "Spore", "Korf", "Spungie", "Ysh"],
+            "vezax_group_2": ["Swifty", "Ahem", "Sieg", "Akjaji", "Sucid"],
             
-            "yogg_portal_group_1": ["Ysh", "Rythmic", "Whistle", "Orrio", "Coke"],
-            "yogg_portal_group_2": ["Killgem", "Sili", "Brov", "Teebs", "Maccy"],
+            "yogg_portal_group_1": ["Teebs", "Rythmic", "Stubb", "Orrio", "Coke"],
+            "yogg_portal_group_2": ["Whistle", "Sili", "Bryar", "Sieg", "Maccy"],
             "yogg_crusher_stoppers": ["Light", "Jim"],
 
-            "algalon_star_killer": "Avei",
-            "algalon_bb_soaker": "Avei",
+            "algalon_star_killer": "Killgem",
+            "algalon_bb_soaker": ["Purple"],
 
             "togc_northbeasts_bile_healers": ["Enryk", "Sucid"],
-            "togc_northbeasts_icehowl_cooldowns": ["Navi", "Navi", "Light"],
-            "togc_northbeasts_icehowl_frenzy": "Seig",
+            "togc_northbeasts_icehowl_cooldowns": ["Andy", "Andy", "Navi", "Navi"],
+            "togc_northbeasts_icehowl_frenzy": "Sieg",
 
-            "togc_jaraxxus_dispellers": ["Azure", "Candy", "Whistle", "Enryk"],
+            "togc_jaraxxus_dispellers": ["Binky", "Azure", "Candy"],
             "togc_jaraxxus_flesh_healer": ["Navi", "Enryk", "Sucid"],
-            "togc_jaraxxus_legion_healer": "Sucid",
+            "togc_jaraxxus_legion_healer": "Alanai",
 
-            "togc_champions_pull": "Jim",
+            "togc_champions_pull": "Light",
             "togc_champions_control_tree": "Korf",
-            "togc_champions_control_shaman": ["Stubb", "Orrio"],
-            "togc_champions_control_priest": "Killgem",
-            "togc_champions_control_paladin": "Rythmic",
+            "togc_champions_control_shaman": ["Stubb", "Coke"],
+            "togc_champions_control_priest": "Orrio",
+            "togc_champions_control_paladin": "Killgem",
             "togc_champions_control_boomkin": "Swifty",
             "togc_champions_control_warlock": ["Korf"],
             "togc_champions_control_spriest": ["Neo"],
@@ -138,12 +138,12 @@
             "togc_champions_control_rogue": ["Candy"],
             "togc_champions_control_warrior": ["Sili"],
             
-            "togc_twins_white_soakers": ["Light", "Avei", "Purple", "Seig"],
+            "togc_twins_white_soakers": ["Ahem", "Akjaji", "Purple", "Sieg"],
             "togc_twins_white_cooldowns": "Navi",
             "togc_twins_black_cooldowns": "Light",
 
-            "togc_anubarak_orb_dropper": "Seig",
-            "togc_anubarak_kite_boppers": ["Navi", "Stubb", "Light"]
+            "togc_anubarak_orb_dropper": "Sieg",
+            "togc_anubarak_kite_boppers": ["Navi", "Stubb"]
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",
@@ -195,6 +195,7 @@
             "Enryk": "Shaman",
             "Alanai": "Shaman",
             "Whistle": "Shaman",
+            "Spungie": "Shaman",
 
             "Coke": "Rogue",
             "Orrio": "Rogue",
@@ -205,7 +206,7 @@
             "Bryar": "Druid",
 
             "Akjaji": "Hunter",
-            "Seig": "Hunter",
+            "Sieg": "Hunter",
 
             "Binky": "Mage",
             "Candy": "Mage",
@@ -217,7 +218,8 @@
 
             "Vae": "Warlock",
             "Neo": "Warlock",
-            "Korf": "Warlock"
+            "Korf": "Warlock",
+            "Spore": "Warlock"
         }
     }
 }

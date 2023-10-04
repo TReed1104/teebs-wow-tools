@@ -1,14 +1,14 @@
 Thorim
 --------------------
 |cPurplePhase 1:|r
-Arena: <tank_2> - (<healer_1> + <healer_3>)
-Gauntlet: <tank_3> - (<healer_2> + <healer_4> + <healer_5>)
+Arena: <tank_3> - (<healer_1> + <healer_3>)
+Gauntlet: <tank_2> - (<healer_6> + <healer_5> + <healer_7>)
 - Melee Arena
 - Ranged Gauntlet
 - Transition as the adds spawn
 
 |cPurplePhase 2:|r
-Tank Order: [thorim_tank_order] - (<healer_1> + <healer_4>)
+Tank Order: [thorim_tank_order]
 Melee Left: [thorim_melee_stack_1]
 Melee Behind: [thorim_melee_stack_2]
 Melee Right: [thorim_melee_stack_3]
