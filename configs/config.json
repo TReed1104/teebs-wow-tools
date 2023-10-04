@@ -122,14 +122,13 @@
             "togc_northbeasts_icehowl_cooldowns": ["Andy", "Andy", "Navi", "Navi"],
             "togc_northbeasts_icehowl_frenzy": "Sieg",
 
-            "togc_jaraxxus_dispellers": ["Binky", "Azure", "Candy"],
+            "togc_jaraxxus_dispellers": ["Binky", "Whistle", "Spungie"],
             "togc_jaraxxus_flesh_healer": ["Navi", "Enryk", "Sucid"],
-            "togc_jaraxxus_legion_healer": "Alanai",
 
             "togc_champions_pull": "Light",
             "togc_champions_control_tree": "Korf",
-            "togc_champions_control_shaman": ["Stubb", "Coke"],
-            "togc_champions_control_priest": "Orrio",
+            "togc_champions_control_shaman": ["Stubb", "Orrio"],
+            "togc_champions_control_priest": "Rythmic",
             "togc_champions_control_paladin": "Killgem",
             "togc_champions_control_boomkin": "Swifty",
             "togc_champions_control_warlock": ["Korf"],
@@ -140,10 +139,9 @@
             
             "togc_twins_white_soakers": ["Ahem", "Akjaji", "Purple", "Sieg"],
             "togc_twins_white_cooldowns": "Navi",
-            "togc_twins_black_cooldowns": "Light",
+            "togc_twins_black_cooldowns": "Andy",
 
-            "togc_anubarak_orb_dropper": "Sieg",
-            "togc_anubarak_kite_boppers": ["Navi", "Stubb"]
+            "togc_anubarak_orb_dropper": "Sieg"
         },
         "additional_tags": {
             "heroism_generic": "Heroism: On pull, 5 seconds in",

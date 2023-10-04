@@ -1,6 +1,6 @@
 Lord Jaraxxus
 --------------------
-Jaraxxus <tank_1>
+Jaraxxus <tank_3>
 Adds <tank_2>
 
 |cPurpleIgnite Flesh Healers: [togc_jaraxxus_flesh_healer]|r
