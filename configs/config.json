@@ -181,11 +181,11 @@
             "heroism_icc_rotface": "Heroism: On Pull",
             "heroism_icc_festergut": "Heroism: On Pull",
             "heroism_icc_putricide": "Heroism: Phase 3 Start - 30%",
-            "heroism_icc_bloodcouncil": "Heroism: ToDo",
-            "heroism_icc_bloodqueen": "Heroism: ToDo",
-            "heroism_icc_valithria": "Heroism: ToDo",
+            "heroism_icc_bloodcouncil": "Heroism: On Pull",
+            "heroism_icc_bloodqueen": "Heroism: Bite 3",
+            "heroism_icc_valithria": "Heroism: Healers Exit Dream",
             "heroism_icc_sindragosa": "Heroism: Phase 2",
-            "heroism_icc_lichking": "Heroism: ToDo"
+            "heroism_icc_lichking": "Heroism: Phase 2, after first Intermission"
         },
         "roster": {
             "Teebs": "Deathknight",
