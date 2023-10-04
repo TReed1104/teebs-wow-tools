@@ -1,3 +1,6 @@
 Sindragosa
 --------------------
 {tank} Boss - <tank_1>
+
+
+<heroism_icc_sindragosa>

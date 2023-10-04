@@ -1,3 +1,6 @@
 Lady Deathwhisper
 --------------------
 {tank} Boss - <tank_1>
+
+
+<heroism_icc_deathwhisper>
