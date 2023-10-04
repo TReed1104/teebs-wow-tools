@@ -1,7 +1,7 @@
 Twin Val'kyr
 --------------------
-Lightbane: <tank_2>
-Darkbane: <tank_3>
+Lightbane: <tank_1>
+Darkbane: <tank_2>
 
 White Orb Soakers: [togc_twins_white_soakers]
 

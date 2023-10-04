@@ -9,10 +9,10 @@
     },
     "angry-asignments-config": {
         "assignments": {
-            "tank_1": "Teebs",
-            "tank_2": "Light",
-            "tank_3": "Jim",
-            "tank_4": "Ahem",
+            "tank_1": "Light",
+            "tank_2": "Jim",
+            "tank_3": "Ahem",
+            "tank_4": "Teebs",
             "tank_5": "Brov",
             "tank_special_1": "Neo",
             "tank_special_2": "",

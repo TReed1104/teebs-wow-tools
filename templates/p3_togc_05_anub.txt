@@ -1,8 +1,8 @@
 Anub'arak
 --------------------
-Anub: <tank_4>
-Left <tank_3>
-Right <tank_2>
+Anub: <tank_3>
+Left <tank_2>
+Right <tank_1>
 
 |cBluePenetrating Cold 1 & 2 - <healer_4>|r
 |cBluePenetrating Cold 3 & 4 & 5 - <healer_3>|r
