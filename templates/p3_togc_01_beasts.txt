@@ -7,24 +7,22 @@ Beasts of Northrend
 |cYellowIcehowl:|r {tank} <tank_2>
 
 |cPurpleGormok|r
-|cPurple- Run Snobolds into melee range|r
+|cPurple- Run Snobolds to the boss|r
 |cPurple- Kill Snobolds|r
 |cPurple- Dodge Fires|r
-|cPurple- Swap tanks every ~3 stacks|r
+|cPurple- Swap tanks every 3 stacks|r
 |cPurple- Casters stay at over 15 yards|r
 
 |cGreenAcidmaw & Dreadscale|r
 |cRed- SPREAD 10 YARDS|r
 |cGreen- Green Debuff Healers: [togc_northbeasts_bile_healers]|r
-|cGreen- Nuke Dreadscale, aim for <5% at submerge|r
 |cGreen- Bring Green debuff to Dreadscale tank {circle}|r
 |cGreen- Drop Green debuff via Dreadscale tank after the breath|r
-|cGreen- Kite Acidmaw when emerged|r
 
 |cYellowIcehowl|r
 |cYellow- Dispel Frenzy: [togc_northbeasts_icehowl_frenzy]|r
 |cYellow- Spread out to minimise Ice breath damage|r
 |cYellow- Raid Cooldowns: [togc_northbeasts_icehowl_cooldowns]|r
-|cYellow- Dodge the charge left/right|r
+|cYellow- Dodge the charge - Targets the {skull}|r
 
 <heroism_togc_beasts>
