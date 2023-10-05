@@ -21,7 +21,7 @@ Right <tank_1>
 
 |cYellowPhase 3:|r
 |cYellow- Use the Frost pot & macro!|r
-|cYellow- Health stone or Personals when targetted by Penetrating cold|r
-|cYellow- Healers aim to keep everyone bar Tanks + Penetrating cold targets at <20% health|r
+|cYellow- Healthstone or defensives when targetted by Penetrating cold|r
+|cYellow- Healers aim to keep everyone bar Tanks + Penetrating cold targets at <10% health|r
 
 <heroism_togc_anub>
