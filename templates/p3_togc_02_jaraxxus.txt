@@ -13,6 +13,6 @@ Adds <tank_2>
 |cYellow- Run Legion Flame away from other players|r
 |cYellow- Ranged Spread ~6 yards|r
 |cYellow- Avoid fire patches|r
-|cYellow- Decurse Touch of Jaraxxus|r
+|cYellow- DSac on Volcano Spawn|r
 
 <heroism_togc_jaraxxus>
