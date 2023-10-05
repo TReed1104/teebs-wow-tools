@@ -24,4 +24,4 @@ Melee Right: [thorim_melee_stack_3]
 - Keep Dispelling the roots
 - Avoid the Blizzard circling the outskirt of the Arena
 
-<heroism_hm_thorim>
+<heroism_ulduar_thorim>

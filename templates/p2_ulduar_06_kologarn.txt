@@ -9,4 +9,4 @@ Rubbles: <tank_2>
 - Always have someone in melee range
 - Only Kill Left Arm when told to
 
-<heroism_kologran>
+<heroism_ulduar_kologran>

@@ -22,7 +22,7 @@ Beasts of Northrend
 |cGreen- Kite Acidmaw when emerged|r
 
 |cYellowIcehowl|r
-|cYellow- Dispel Frenzy: <togc_northbeasts_icehowl_frenzy>|r
+|cYellow- Dispel Frenzy: [togc_northbeasts_icehowl_frenzy]|r
 |cYellow- Spread out to minimise Ice breath damage|r
 |cYellow- Raid Cooldowns: [togc_northbeasts_icehowl_cooldowns]|r
 |cYellow- Dodge the charge left/right|r

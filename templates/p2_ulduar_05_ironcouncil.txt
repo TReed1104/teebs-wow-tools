@@ -20,4 +20,4 @@ Iron Counil (Hardmode)
 - Run from Overload
 - Run away from Lightning Tendrils
 
-<heroism_hm_ironcouncil>
+<heroism_ulduar_ironcouncil>

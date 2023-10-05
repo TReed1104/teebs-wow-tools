@@ -7,4 +7,4 @@ Constructs Kiters: <tank_4>
 - Avoid Fires
 - Make sure the Constructs die away from the raid
 
-<heroism_ignis>
+<heroism_ulduar_ignis>

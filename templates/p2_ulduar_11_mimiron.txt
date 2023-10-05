@@ -1,7 +1,7 @@
 Mimiron (Hardmode)
 --------------------
 Ground Tank: <tank_2> - (<healer_1>)
-Air Tank: <tank_special_1> - (<healer_1>)
+Air Tank: <tank_6> - (<healer_1>)
 Core Looter: [mimiron_core_looter]
 
 |cPurplePhase 1:|r
@@ -23,4 +23,4 @@ Heat Wave DSacs: [mimiron_heat_waves]
 |cGreen- Never be infront of |cRedLaser Barrage|r|r
 |cRed- All Three need to die together|r
 
-<heroism_hm_mimiron>
+<heroism_ulduar_mimiron>

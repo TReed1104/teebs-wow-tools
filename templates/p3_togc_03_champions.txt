@@ -2,13 +2,13 @@ Faction Champions
 --------------------
 |cShamanResto Shaman|r > |cWarriorWarrior|r > |cRogueRogue|r > |cWarlockWarlock|r > |cDeathknightDeathknight|r > |cPriestDisc Priest|r > |cDruidTree|r > |cPaladinHoly Paladin|r > |cPaladinRet Pally|r > |cHunterHunter|r > |cDruidMoonkin|r > |cPriestShadow Priest|r > |cMageMage|r
 
-Pull: <togc_champions_pull>
-|cDruidTree|r Banish: <togc_champions_control_tree>
+Pull & Grip: [togc_champions_pull]
+|cDruidTree|r Banish: [togc_champions_control_tree]
 |cShamanResto Shaman|r Control: [togc_champions_control_shaman]
-|cPriestDisc Priest|r Control: <togc_champions_control_priest>
-|cPaladinHoly Paladin|r Control: <togc_champions_control_paladin>
+|cPriestDisc Priest|r Control: [togc_champions_control_priest]
+|cPaladinHoly Paladin|r Control: [togc_champions_control_paladin]
 
-- Maintain MS Debuff: <mortal_strike>
+- Maintain MS Debuff: [mortal_strike]
 - Priests Mass Dispel as frequently as possible
 - Untankable, so kite if they come for you or personal cooldowns
 

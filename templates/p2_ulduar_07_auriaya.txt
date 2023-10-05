@@ -13,4 +13,4 @@ Defender Tank: <tank_3> + <tank_4>
 - Kill the Defender when called
 - Move between positions 1 and 2 when the defender is killed
 
-<heroism_auriaya>
+<heroism_ulduar_auriaya>

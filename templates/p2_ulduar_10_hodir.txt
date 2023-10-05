@@ -12,4 +12,4 @@ Singe Maintainers: [hodir_singe_stackers]
 4 - Never let |cRedSinge|r cOrangeDrop
 5 - Utilise |cYellowMoonbeams|r to boost DPS
 
-<heroism_hodir>
+<heroism_ulduar_hodir>

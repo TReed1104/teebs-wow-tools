@@ -5,10 +5,10 @@ Darkbane: <tank_2>
 
 White Orb Soakers: [togc_twins_white_soakers]
 
-|cPriestLightbane Vortex:|r <togc_twins_white_cooldowns>
+|cPriestLightbane Vortex:|r [togc_twins_white_cooldowns]
 |cPriest- DSac + Fire Aura Mastery|r
 
-|cPurpleDarkbane Vortex:|r <togc_twins_black_cooldowns>
+|cPurpleDarkbane Vortex:|r [togc_twins_black_cooldowns]
 |cPurple- DSac + Shadow Aura Mastery|r
 
 |cGreen- {tank}Tanks uses cooldowns when the opposite Val'kyr Bubbles|r

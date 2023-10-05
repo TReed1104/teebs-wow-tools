@@ -3,7 +3,7 @@ Razorscale
 |cPurplePhase 1:|r
 <tank_3> - (<healer_1>)
 <tank_4> - (<healer_2>)
-|cBlueHarpooner:|r <razorscale_harpooner>
+|cBlueHarpooner:|r [razorscale_harpooner]
 
 - Add Kill Priority: Sentinels > Watchers > Guardians
 - Dodge Blue Flame Patches
@@ -15,4 +15,4 @@ Tank Healer: (<healer_1>)
 - Tank Swap every 2 stacks
 - Never be infront of her
 
-<heroism_razorscale>
+<heroism_ulduar_razorscale>

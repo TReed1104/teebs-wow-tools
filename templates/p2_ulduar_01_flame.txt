@@ -11,9 +11,9 @@ Flame Leviathan (Hardmode)
 |cGreenDemolisher 3:|r [fl_demolisher_3]
 |cGreenDemolisher 4:|r [fl_demolisher_4]
 |cGreenDemolisher 5:|r [fl_demolisher_5]
-|cOrangeChopper 1:|r <fl_chopper_1>
-|cOrangeChopper 2:|r <fl_chopper_2>
-|cOrangeChopper 3:|r <fl_chopper_3>
+|cOrangeChopper 1:|r [fl_chopper_1]
+|cOrangeChopper 2:|r [fl_chopper_2]
+|cOrangeChopper 3:|r [fl_chopper_3]
 
 |cPurpleAvoid Sky-beams (White, Boss, Yellow)|r
 

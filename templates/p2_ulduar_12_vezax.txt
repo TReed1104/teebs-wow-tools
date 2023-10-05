@@ -21,4 +21,4 @@ Searing Flames Interrupts: [interrupts]
 |cGreen- Use Personals around 50 Seconds|r
 |cGreen- Use Healthstones!|r
 
-<heroism_hm_vezax>
+<heroism_ulduar_vezax>

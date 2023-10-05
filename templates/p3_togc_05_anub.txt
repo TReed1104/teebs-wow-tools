@@ -7,7 +7,7 @@ Right <tank_1>
 |cBluePenetrating Cold 1 & 2 - <healer_4>|r
 |cBluePenetrating Cold 3 & 4 & 5 - <healer_3>|r
 
-|cRedFrost Orb Dropper: <togc_anubarak_orb_dropper>|r
+|cRedFrost Orb Dropper: [togc_anubarak_orb_dropper]|r
 
 |cPurplePhase 1:|r
 |cPurple- Assigned Orb dropped to place the 6 ice patches|r

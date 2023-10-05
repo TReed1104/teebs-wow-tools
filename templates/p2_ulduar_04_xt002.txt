@@ -17,4 +17,4 @@ Tantrum 5: <DSac_1>
 - Kill Adds: |cRedBoombots > Scrapbots > Pummeler|r
 - Don't be near the Boombots when they explode
 
-<heroism_hm_xt002>
+<heroism_ulduar_xt002>

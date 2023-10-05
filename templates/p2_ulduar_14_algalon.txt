@@ -3,7 +3,7 @@ Algalon
 Tank 1: <tank_2>
 Tank 2: <tank_3>
 
-Star Killers: <algalon_star_killer>
+Star Killers: [algalon_star_killer]
 Big Bang Soaker: [algalon_bb_soaker]
 
 Star CDs
@@ -18,4 +18,4 @@ Star CDs
 9 - Aura Mastery: <AM_1>
 10 - Aura Mastery: <DSac_2>
 
-<heroism_algalon>
+<heroism_ulduar_algalon>
