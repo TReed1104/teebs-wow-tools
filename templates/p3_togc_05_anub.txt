@@ -20,7 +20,7 @@ Right <tank_1>
 |cGreen- Raid clean up Burrowers and little adds|r
 
 |cYellowPhase 3:|r
-|cYellow- Use the macro|r
+|cYellow- Use the Frost pot & macro!|r
 |cYellow- Health stone or Personals when targetted by Penetrating cold|r
 |cYellow- Healers aim to keep everyone bar Tanks + Penetrating cold targets at <20% health|r
 
