@@ -96,7 +96,20 @@
             "togc_twins_white_soakers":             ["Ahem", "Akjaji", "Purple", "Sieg"],
             "togc_twins_white_cooldowns":           ["Navi"],
             "togc_twins_black_cooldowns":           ["Andy"],
-            "togc_anubarak_orb_dropper":            ["Sieg"]
+            "togc_anubarak_orb_dropper":            ["Sieg"],
+
+            "icc_marrowgar_":       [""],
+            "icc_deathwhisper_":    [""],
+            "icc_gunship_":         [""],
+            "icc_saurfang_":        [""],
+            "icc_rotface_":         [""],
+            "icc_festergut_":       [""],
+            "icc_putricide_":       [""],
+            "icc_council_":         [""],
+            "icc_bloodqueen_":      [""],
+            "icc_valithria_":       [""],
+            "icc_sindragosa_":      [""],
+            "icc_lichking_":        [""]
         },
         "additional_tags": {
             "heroism_ulduar_ignis":         "Heroism: On pull",
