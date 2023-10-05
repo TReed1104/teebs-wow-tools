@@ -16,5 +16,4 @@ White Orb Soakers: [togc_twins_white_soakers]
 |cPurpleDarkbane Vortex:|r [togc_twins_black_cooldowns]
 |cPurple- DSac + Shadow Aura Mastery|r
 
-
 <heroism_togc_twins>
