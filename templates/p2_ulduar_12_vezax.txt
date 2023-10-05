@@ -3,8 +3,8 @@ General Vezax (Hardmode)
 Vezax: <tank_1> - (<healer_1>)
 Searing Flames Interrupts: [interrupts]
 
-{star} [vezax_group_1]
-{triangle} [vezax_group_2]
+{star} [ulduar_vezax_group_1]
+{triangle} [ulduar_vezax_group_2]
 
 |cRed- Ranged split between your assigned groups: {triangle} and {star}|r
 - Move whenever your stack mark moves

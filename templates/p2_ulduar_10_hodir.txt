@@ -2,8 +2,8 @@ Hodir
 --------------------
 Tank: <tank_3>
 
-Singe Maintainers: [hodir_singe_stackers]
-{triangle} Thunder Buffers: [hodir_pump_stackers_1]
+Singe Maintainers: [ulduar_hodir_singe_stackers]
+{triangle} Thunder Buffers: [ulduar_hodir_pump_stackers_1]
 
 |cBlueSimplified Buffs:|r
 1 - Stack near the campfire on pull, get |cRedSinge|r up

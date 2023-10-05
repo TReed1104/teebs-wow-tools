@@ -3,7 +3,7 @@ Razorscale
 |cPurplePhase 1:|r
 <tank_3> - (<healer_1>)
 <tank_4> - (<healer_2>)
-|cBlueHarpooner:|r [razorscale_harpooner]
+|cBlueHarpooner:|r [ulduar_razorscale_harpooner]
 
 - Add Kill Priority: Sentinels > Watchers > Guardians
 - Dodge Blue Flame Patches

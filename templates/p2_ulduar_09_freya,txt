@@ -13,12 +13,12 @@ Adds Tank: <tank_4>
 |cBlueWave A - Trio|r
 |cBlue- Stun+Kite Snaplashers <tank_1>, Ranged hard focus|r
 |cBlue- Face Water Spirit away: <tank_2>|r
-|cBlue- Interrupt Water Spirit Casts [freya_interrupt_water]|r
-|cBlue- Interrupt Storm Lasher Casts [freya_interrupt_storm]|r
+|cBlue- Interrupt Water Spirit Casts [ulduar_freya_interrupt_water]|r
+|cBlue- Interrupt Storm Lasher Casts [ulduar_freya_interrupt_storm]|r
 
 |cGreenWave B - Bombs|r
-|cGreen- Lasher Control Wave 1: [freya_control_1]|r
-|cGreen- Lasher Control Wave 2: [freya_control_2]|r
+|cGreen- Lasher Control Wave 1: [ulduar_freya_control_1]|r
+|cGreen- Lasher Control Wave 2: [ulduar_freya_control_2]|r
 
 |cYellowWave C - Big Tree|r
 |cYellow-{healer}Healers Spread as directed|r

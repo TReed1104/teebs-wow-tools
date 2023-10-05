@@ -2,22 +2,22 @@ Thorim
 --------------------
 |cPurplePhase 1:|r
 Arena: <tank_3> - (<healer_1> + <healer_3>)
-Gauntlet: <tank_2> - (<healer_6> + <healer_5> + <healer_7>)
+Gauntlet: <tank_2> - (<healer_2> + <healer_4> + <healer_5>)
 - Melee Arena
 - Ranged Gauntlet
 - Transition as the adds spawn
 
 |cPurplePhase 2:|r
-Tank Order: [thorim_tank_order]
-Melee Left: [thorim_melee_stack_1]
-Melee Behind: [thorim_melee_stack_2]
-Melee Right: [thorim_melee_stack_3]
-{cross} [thorim_pair_cross]
-{square} [thorim_pair_square]
-{moon} [thorim_pair_moon]
-{triangle} [thorim_pair_triangle]
-{diamond} [thorim_pair_diamond]
-{circle} [thorim_pair_circle]
+Tank Spot: [ulduar_thorim_tank_stack]
+Melee Left: [ulduar_thorim_melee_stack_1]
+Melee Behind: [ulduar_thorim_melee_stack_2]
+Melee Right: [ulduar_thorim_melee_stack_3]
+{cross} [ulduar_thorim_pair_cross]
+{square} [ulduar_thorim_pair_square]
+{moon} [ulduar_thorim_pair_moon]
+{triangle} [ulduar_thorim_pair_triangle]
+{diamond} [ulduar_thorim_pair_diamond]
+{circle} [ulduar_thorim_pair_circle]
 
 - Watch for the |cRedLightning beam|r between Thorim and the wall, move from this Area
 - Spread as much as possible to mitigate Chain Lightning, especially Melee

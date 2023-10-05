@@ -7,13 +7,13 @@ Yogg-Saron (Hardmode)
 |cBlue- Interrupt Dark Volley|r
 
 |cPurplePhase 2:|r
-|cGreen- Portal Group: [yogg_portal_group_1]|r
-|cGreen- Portal Group: [yogg_portal_group_2]|r
+|cGreen- Portal Group: [ulduar_yogg_portal_group_1]|r
+|cGreen- Portal Group: [ulduar_yogg_portal_group_2]|r
 |cGreen- Watch your Sanity, use the green wells to restore if low|r
 |cGreen- Avoid the death beams|r
 |cGreen- Avoid feared players|r
 |cGreen- Move to your Brain-link|r
-|cGreen- Crusher Hitter: [yogg_crusher_stoppers]
+|cGreen- Crusher Hitter: [ulduar_yogg_crusher_stoppers]
 |cGreen- Melee Focus: |cRedConstrictor > Corruptor|r|r
 |cGreen- Ranged Focus: |cRedConstrictor > Crusher|r|r
 |cGreen- Always be dispelling|r

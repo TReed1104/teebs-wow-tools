@@ -2,7 +2,7 @@ Mimiron (Hardmode)
 --------------------
 Ground Tank: <tank_2> - (<healer_1>)
 Air Tank: <tank_6> - (<healer_1>)
-Core Looter: [mimiron_core_looter]
+Core Looter: [ulduar_mimiron_core_looter]
 
 |cPurplePhase 1:|r
 |cBlue- {tank}Tanks use Cooldown for Plastma Blast|r
@@ -11,7 +11,7 @@ Core Looter: [mimiron_core_looter]
 
 |cPurplePhase 2:|r
 |cGreen- Avoid the Rockets and the PewPew|r
-Heat Wave DSacs: [mimiron_heat_waves]
+Heat Wave DSacs: [ulduar_mimiron_heat_waves]
 
 |cPurplePhase 3:|r
 |cYellow- Kill Priority: Assault > Fire Alarms > Trash|r

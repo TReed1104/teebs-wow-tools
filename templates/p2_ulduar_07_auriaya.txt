@@ -3,7 +3,7 @@ Auriaya
 Auriaya Tank: <tank_2>
 Defender Tank: <tank_3> + <tank_4>
 
-|cPurpleTank Fear Ward Order:|r [auriaya_fearwards]
+|cPurpleTank Fear Ward Order:|r [ulduar_auriaya_fearwards]
 |cBlueInterrupt Order:|r [interrupts]
 
 - Always be stacked for the |cYellowSonic Screeh|r

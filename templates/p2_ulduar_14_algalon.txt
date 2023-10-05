@@ -3,8 +3,8 @@ Algalon
 Tank 1: <tank_2>
 Tank 2: <tank_3>
 
-Star Killers: [algalon_star_killer]
-Big Bang Soaker: [algalon_bb_soaker]
+Star Killers: [ulduar_algalon_star_killer]
+Big Bang Soaker: [ulduar_algalon_bb_soaker]
 
 Star CDs
 1 - Shadow Potion
