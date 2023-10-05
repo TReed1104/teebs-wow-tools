@@ -5,17 +5,16 @@ Darkbane: <tank_2>
 
 White Orb Soakers: [togc_twins_white_soakers]
 
+|cPriest- Light Vortex: Black swap|r
+|cPriest- Light Pact: Black continue on Lightbane|r
+|cPurple- Dark Vortex: White use Disperse, Deterrence, Iceblock or healthstones|r
+|cPurple- Dark Pact: Black swap, blow cooldowns and change target|r
+
 |cPriestLightbane Vortex:|r [togc_twins_white_cooldowns]
 |cPriest- DSac + Fire Aura Mastery|r
 
 |cPurpleDarkbane Vortex:|r [togc_twins_black_cooldowns]
 |cPurple- DSac + Shadow Aura Mastery|r
-
-|cGreen- {tank}Tanks uses cooldowns when the opposite Val'kyr Bubbles|r
-|cPriest- Light Vortex: Use healthstones and change to Black Buff|r
-|cPriest- Light Pact: Continue nuking Lightbane|r
-|cPurple- Dark Vortex: Soakers use defensives & healthstones|r
-|cPurple- Dark Pact: Hero, Swap target and Melee change to White|r
 
 
 <heroism_togc_twins>
