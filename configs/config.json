@@ -141,7 +141,6 @@
         },
         "roster": {
             "Teebs":    "Deathknight",
-            "Ysh":      "Deathknight",
             "Sili":     "Deathknight",
             "Jim":      "Warrior",
             "Brov":     "Warrior",
@@ -168,6 +167,7 @@
             "Azure":    "Mage",
             "Purple":   "Priest",
             "Sucid":    "Priest",
+            "Ysh":      "Priest",
             "Neo":      "Warlock",
             "Korf":     "Warlock",
             "Spore":    "Warlock"
