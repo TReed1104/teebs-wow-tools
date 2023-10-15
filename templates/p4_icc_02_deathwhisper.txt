@@ -1,6 +1,23 @@
 Lady Deathwhisper
 --------------------
-{tank} Boss - <tank_1>
+{tank} Boss - <tank_1> > <tank_2>
+{tank} Left - <tank_1>
+{tank} Right - <tank_2>
 
+|cGreenPhase 1|r
+|cGreen- Interrupt Adherent Casts, get them in|r
+|cGreen- Ranged focus Empowered Fanatics|r
+|cGreen- Melee focus Empowered Adherents|r
+|cGreen- Left Interrupts: [icc_deathwhisper_fanatics_left]|r
+|cGreen- Right Interrupts: [icc_deathwhisper_fanatics_right]|r
+|cGreen- CC the mind controls: [icc_deathwhisper_mc_cc]|r
+|cGreen- Dodge the Death & Decay (Big green circles)|r
+
+|cRedPhase 2|r
+|cRed- IMPORTANT: Dodge the Purple Ghosts|r
+|cRed- Ranged: Focus Adds|r
+|cRed- Melee: Focus Boss|r
+|cRed- CC the mind controls: [icc_deathwhisper_mc_cc]|r
+|cRed- Dodge the Death & Decay (Big green circles)|r
 
 <heroism_icc_deathwhisper>
