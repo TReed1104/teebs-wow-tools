@@ -1,6 +1,24 @@
 Gunship Battle
 --------------------
-{tank} Boss - <tank_1>
+{tank} Alliance Ship - <tank_1>
+{tank} Horde Ship - <tank_2>
 
+|cRedIMPORTANT: Get your jetpack|r
+|cRedCannon Squad: [icc_gunship_jump_squad]|r
+|cRedBackups: [icc_gunship_jump_backup]|r
+
+|cGreenShip Squad|r
+|cGreen- Cannons shoot til ~80 steam, then use the big shot|r
+|cGreen- Kill spawning adds on our ship|r
+|cGreen- Dodge Rockets|r
+|cGreen- Ranged kill Axe throwers on the close edge of enemy ship|r
+|cGreen- Cannons aim at the rocketeers on far side|r
+
+|cRedJump Squad|r
+|cRed- Jump over when the cannons freeze|r
+|cRed- Jump Squad: [icc_gunship_jump_squad], [icc_gunship_cannon_squad]|r
+|cRed- Tank the Boss|r
+|cRed- Dodge the cleave|r
+|cRed- Kill the mage, jump back|r
 
 <heroism_icc_gunship>
