@@ -3,7 +3,7 @@ Valithria Dreamwalker
 |cYellowLeft Squad: [icc_valithria_left]|r
 |cOrangeRight Squad: [icc_valithria_right]|r
 
-Raid cooldowns: [icc_valithria_raid_cds]
+Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedAdds:|r
 |cRed- Blazing Skeletons - Priority one, use raid cooldowns on Laywaster|r

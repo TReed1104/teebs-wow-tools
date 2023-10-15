@@ -3,7 +3,7 @@ Rotface
 {tank} Rotface - <tank_2>
 {tank} Slimes - <tank_1>
 
-Slime cooldowns: [icc_rotface_raid_cds]
+Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedSlimes|r
 |cRed- Dispel the debuff to spawn the slimes|r

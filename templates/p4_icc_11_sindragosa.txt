@@ -1,6 +1,7 @@
 Sindragosa
 --------------------
-{tank} Boss - <tank_1>
+{tank} Sindragosa - <tank_1>
 
+Raid Cooldowns: [icc_raid_cooldowns]
 
 <heroism_icc_sindragosa>

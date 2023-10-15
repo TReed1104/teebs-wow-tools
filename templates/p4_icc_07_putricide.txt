@@ -1,6 +1,23 @@
 Professor Putricide
 --------------------
-{tank} Boss - <tank_1>
+{tank} Putricide - <tank_1> > <tank_2>
+{tank} Abomination - <tank_3>
 
+Raid Cooldowns: [icc_raid_cooldowns]
+
+|cGreenPhase 1|r
+|cGreen- |r
+|cGreen- |r
+|cGreen- |r
+
+|cYellowPhase 2|r
+|cYellow- |r
+|cYellow- |r
+|cYellow- |r
+
+|cRedPhase 3|r
+|cRed- |r
+|cRed- |r
+|cRed- |r
 
 <heroism_icc_putricide>

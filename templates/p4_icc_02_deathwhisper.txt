@@ -4,6 +4,8 @@ Lady Deathwhisper
 {tank} Left Adds - <tank_1>
 {tank} Right Adds - <tank_2>
 
+Raid Cooldowns: [icc_raid_cooldowns]
+
 |cGreenPhase 1|r
 |cGreen- Interrupt Adherent Casts, get them in|r
 |cGreen- Ranged focus Empowered Fanatics|r

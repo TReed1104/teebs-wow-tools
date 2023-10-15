@@ -6,7 +6,7 @@ Festergut
 {square} Spore Stack: [icc_festergut_spore_square]
 {diamond} Spore Stack: [icc_festergut_spore_diamond]
 
-Raid Cooldowns: [icc_festergut_raid_cds]
+Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedSpores + Blight|r
 |cRed- Stack on the spores to get the buff, you need to get 3 stacks|r

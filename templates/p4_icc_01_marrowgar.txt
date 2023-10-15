@@ -4,13 +4,16 @@ Lord Marrowgar
 
 |cPurpleBone spike healers: <healer_3> + <healer_4>|r
 
+Raid Cooldowns: [icc_raid_cooldowns]
+
 |cGreenGeneral|r
 |cGreen- Tanks stack tightly, everyone avoid themZr
 |cGreen- Nuke Bone Spikes instantly, drop everything to kill themZr
 |cGreen- Avoid the fire streamsZr
 
 |cRedBonestorm|r
-|cRed- DSac on Bonestorm (Raid cooldowns: [icc_marrowgar_raid_cds])|r
+|cRed- Raid cooldowns on Bonestorm|r
+|cRed- Stack in the center for Bonestorm, tanks run to edge of room|r
 |cRed- DPS collect around the centre|r
 |cRed- Tanks run to each side of the room to bait the storm|r
 

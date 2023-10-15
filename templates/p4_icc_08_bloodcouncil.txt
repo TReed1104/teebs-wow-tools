@@ -4,7 +4,7 @@ Blood Prince Council
 {tank} Valanar - <tank_2>
 {tank} Keleseth - <tank_3>
 
-Raid Cooldowns: [icc_council_raid_cds]
+Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedTaldaaram|r
 |cRed- Dodge the frontal cone|r

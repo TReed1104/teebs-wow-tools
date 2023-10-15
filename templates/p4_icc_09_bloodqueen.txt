@@ -1,6 +1,16 @@
 Blood-Queen Lana'thel
 --------------------
-{tank} Boss - <tank_1>
+{tank} Queen - <tank_1>
+{tank} Soak - <tank_3>
 
+Raid Cooldowns: [icc_raid_cooldowns]
+
+Phase 1
+- 
+
+Phase 2
+- Spread out, 12 yards
+- Use Tremor totems
+- Use raid cooldowns
 
 <heroism_icc_bloodqueen>
