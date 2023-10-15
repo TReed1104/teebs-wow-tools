@@ -1,6 +1,20 @@
 Valithria Dreamwalker
 --------------------
-{tank} Boss - <tank_1>
+|cYellowLeft Squad: [icc_valithria_left]|r
+|cOrangeRight Squad: [icc_valithria_right]|r
 
+Raid cooldowns: [icc_valithria_raid_cds]
+
+|cRedAdds:|r
+|cRed- Blazing Skeletons - Priority one, use raid cooldowns on Laywaster|r
+|cRed- Suppressors - Reduce healing|r
+|cRed- Risen Archmage - Interrupt, dodge mana voids|r
+|cRed- Blistering Zombies - Kite, Ranged nuke|r
+|cRed- Abominations - Watch spew and spawns worms|r
+
+|cGreenHealers:|r
+|cGreen- Assigned Healers will enter the spawning red portals|r
+|cGreen- Once inside, fly around collecting the red clouds|r
+|cGreen- Re-enter every wave of portals and refresh your buff|r
 
 <heroism_icc_valithria>
