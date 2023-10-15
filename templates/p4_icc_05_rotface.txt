@@ -1,6 +1,20 @@
 Rotface
 --------------------
-{tank} Boss - <tank_1>
+{tank} Rotface - <tank_2>
+{tank} Slimes - <tank_1>
 
+Slime cooldowns: [icc_rotface_raid_cds]
+
+|cRedSlimes|r
+|cRed- Dispel the debuff to spawn the slimes|r
+|cRed- Slim etargets run to {star} Slime Tank: <tank_1>|r
+|cRed- Slimes fuse together and explode at 5 fuses|r
+|cRed- When the slime explodes, move from where you were stood and blow defensives|r
+
+|cPurpleGeneral|r
+|cPurple- Dodge the Frontal spew, every 20 seconds - use healthstones if needed|r
+|cPurple- Avoid Green pools on floor|r
+|cPurple- Move from the flooded quarters of the room|r
+|cPurple- Spread 6 yards at all times|r
 
 <heroism_icc_rotface>
