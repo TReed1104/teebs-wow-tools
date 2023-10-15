@@ -40,7 +40,7 @@
             "icc_deathwhisper_mc_cc":           ["", "", "", "", ""],
             "icc_gunship_jump_squad":           ["", ""],
             "icc_gunship_cannon_squad":         ["", "", "", ""],
-            "icc_gunship_jump_backup":               ["", ""],
+            "icc_gunship_jump_backup":          ["", ""],
             "icc_saurfang_markheals":           ["", "", ""],
             "icc_saurfang_control":             ["", "", "", "", ""],
             "icc_rotface_raid_cds":             ["", "", "", ""],

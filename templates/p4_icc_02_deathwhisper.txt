@@ -1,8 +1,8 @@
 Lady Deathwhisper
 --------------------
-{tank} Boss - <tank_1> > <tank_2>
-{tank} Left - <tank_1>
-{tank} Right - <tank_2>
+{tank} Deathwhisper - <tank_1> > <tank_2>
+{tank} Left Adds - <tank_1>
+{tank} Right Adds - <tank_2>
 
 |cGreenPhase 1|r
 |cGreen- Interrupt Adherent Casts, get them in|r
