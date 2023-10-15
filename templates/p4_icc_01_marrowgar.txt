@@ -6,7 +6,6 @@ Lord Marrowgar
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
-|cGreenGeneral|r
 |cGreen- Tanks stack tightly, everyone avoid themZr
 |cGreen- Nuke Bone Spikes instantly, drop everything to kill themZr
 |cGreen- Avoid the fire streamsZr
