@@ -1,7 +1,7 @@
 Kologarn
 --------------------
-Boss: <tank_3>
-Rubbles: <tank_2>
+Boss: <tank_1>
+Rubbles: <tank_3>
 
 - Kill Priority: |cRedRubble Adds > Right Arm > Main Body|r
 - Watch out for and kite the |cGreenEyebeams|r

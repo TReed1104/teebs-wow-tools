@@ -1,6 +1,6 @@
 General Vezax (Hardmode)
 --------------------
-Vezax: <tank_1> - (<healer_1>)
+Vezax: <tank_2> - (<healer_1>)
 Searing Flames Interrupts: [interrupts]
 
 {star} [ulduar_vezax_group_1]
