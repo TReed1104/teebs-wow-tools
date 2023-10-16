@@ -5,13 +5,13 @@ Deathbringer Saurfang
 Mark Healers: [icc_saurfang_markheals]
 Blood beast control: [icc_saurfang_control]
 
-|cRed- Tanks swap every stack of Rune|r
-|cRed- Mortal Strike Debuff: <mortal_strike>|r
-|cRed- Spread out, 12 yards at all times|r
-|cRed- Hunters drop slowing traps on for each blood beast wave|r
-|cRed- Ranged are to hard focus the Blood beasts when they spawn|r
-|cRed- Targetted players by Blood beasts need to make sure they don't get hit|r
-|cRed- Use immunities to clear the Blood boil debuff - Block/Bubble etc.|r
-|cRed- Periodically players will get marked, they must not die!|r
+|cGreen- Tanks swap every stack of Rune|r
+|cGreen- Mortal Strike Debuff: <mortal_strike>|r
+|cGreen- Spread out, 12 yards at all times|r
+|cGreen- Hunters drop slowing traps on for each blood beast wave|r
+|cGreen- Ranged are to hard focus the Blood beasts when they spawn|r
+|cGreen- Targetted players by Blood beasts need to make sure they don't get hit|r
+|cGreen- Use immunities to clear the Blood boil debuff - Block/Bubble etc.|r
+|cGreen- Periodically players will get marked, they must not die!|r
 
 <heroism_icc_saurfang>

@@ -1,7 +1,7 @@
 Valithria Dreamwalker
 --------------------
-|cYellowLeft Squad: [icc_valithria_left]|r
-|cOrangeRight Squad: [icc_valithria_right]|r
+Left Squad: [icc_valithria_left]
+Right Squad: [icc_valithria_right]
 
 Raid Cooldowns: [icc_raid_cooldowns]
 

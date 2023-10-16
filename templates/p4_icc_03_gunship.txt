@@ -4,7 +4,7 @@ Gunship Battle
 {tank} Horde Ship - <tank_2>
 
 |cRedIMPORTANT: Get your jetpack|r
-|cRedCannon Squad: [icc_gunship_jump_squad]|r
+|cRedCannon Squad: [icc_gunship_cannon_squad]|r
 |cRedBackups: [icc_gunship_jump_backup]|r
 
 |cGreenShip Squad|r

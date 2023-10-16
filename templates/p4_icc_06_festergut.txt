@@ -8,10 +8,10 @@ Festergut
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
-|cRedSpores + Blight|r
-|cRed- Stack on the spores to get the buff, you need to get 3 stacks|r
-|cRed- Raid cooldowns on Pungent Blight, every 3 inhales|r
-|cRed- Dispersion/Block works on the Pungent Blight|r
+|cBlueSpores + Blight|r
+|cBlue- Stack on the spores to get the buff, you need to get 3 stacks|r
+|cBlue- Raid cooldowns on Pungent Blight, every 3 inhales|r
+|cBlue- Dispersion/Block works on the Pungent Blight|r
 
 |cPurple- Tank damage is nasty|r
 |cPurple- Tanks swap every 9 stacks of the buff, watch threat|r
