@@ -1,6 +1,6 @@
 Festergut
 --------------------
-{tank} Festergut - <tank_1> > <tank_2>
+{tank} Festergut - <tank_1> > <tank_3>
 
 {star} Spore Stack: [icc_festergut_spore_star]
 {square} Spore Stack: [icc_festergut_spore_square]

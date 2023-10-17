@@ -1,6 +1,6 @@
 Lord Marrowgar
 --------------------
-{tank} Marrowgar - <tank_1> + <tank_2>
+{tank} Marrowgar - <tank_1> + <tank_3>
 
 |cPurpleBone spike healers: <healer_6> + <healer_4>|r
 
