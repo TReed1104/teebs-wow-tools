@@ -1,9 +1,14 @@
 Deathbringer Saurfang
 --------------------
-{tank} Saurfang - <tank_1> > <tank_3>
+{tank} Saurfang - <tank_2> > <tank_3>
 
 Mark Healers: [icc_saurfang_markheals]
 Blood beast control: [icc_saurfang_control]
+{skull}: [icc_saurfang_beast_1]
+{cross}: [icc_saurfang_beast_2]
+{square}: [icc_saurfang_beast_3]
+{moon}: [icc_saurfang_beast_4]
+{triangle}: [icc_saurfang_beast_5]
 
 |cGreen- Tanks swap every stack of Rune|r
 |cGreen- Mortal Strike Debuff: <mortal_strike>|r

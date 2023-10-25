@@ -5,7 +5,6 @@ Gunship Battle
 
 |cRedIMPORTANT: Get your jetpack|r
 |cRedCannon Squad: [icc_gunship_cannon_squad]|r
-|cRedBackups: [icc_gunship_jump_backup]|r
 
 |cGreenShip Squad|r
 |cGreen- Cannons shoot til ~80 steam, then use the big shot|r
@@ -16,7 +15,7 @@ Gunship Battle
 
 |cRedJump Squad|r
 |cRed- Jump over when the cannons freeze|r
-|cRed- Jump Squad: [icc_gunship_jump_squad], [icc_gunship_cannon_squad]|r
+|cRed- Jump Squad: [icc_gunship_jump_squad]
 |cRed- Tank the Boss|r
 |cRed- Dodge the cleave|r
 |cRed- Kill the mage, jump back|r

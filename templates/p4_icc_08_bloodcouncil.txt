@@ -1,8 +1,8 @@
 Blood Prince Council
 --------------------
-{tank} Taladaram - <tank_1>
-{tank} Valanar - <tank_2>
-{tank} Keleseth - <tank_3>
+{tank} |cYellowValanar|r - <tank_2>
+{tank} |cRedTaldaaram|r - <tank_3>
+{tank} |cPurpleKeleseth|r - <tank_1>
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
@@ -16,7 +16,7 @@ Raid Cooldowns: [icc_raid_cooldowns]
 |cYellow- Yellow Orb: needs to never touch the floor [icc_council_raid_kinetic]|r
 |cYellow- Empowered: EVERYONE Spread on the cast and use raid CDs|r
 
-|cPurpleTaladaram|r
+|cPurpleKeleseth|r
 |cPurple- Nasty Tank damage, collect the orbs|r
 |cPurple- Purple Orb: Tank needs to collect them to reduce incoming damage|r
 |cPurple- Empowered: Shadowbolt is fatal without Purple Buff and CDs|r

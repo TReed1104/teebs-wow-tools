@@ -6,18 +6,19 @@ Professor Putricide
 Raid Cooldowns: [icc_raid_cooldowns]
 
 |cGreenPhase 1|r
-|cGreen- |r
-|cGreen- |r
-|cGreen- |r
+|cGreen- Dodge Pools and Kill Oozes|r
+|cGreen- Green Ooze - Roots and Explodes on target|r
+|cGreen- Orange Ooze - Chases Target, Run away|r
+|cGreen- Stop DPS at ~83%, clear oozes before push|r
 
 |cYellowPhase 2|r
-|cYellow- |r
-|cYellow- |r
-|cYellow- |r
+|cYellow- Dodge Bouncing Green Blobs, move a few yards when it casts|r
+|cYellow- Dodge Orange Vials, they drop behind boss - move boss|r
+|cYellow- Stop DPS at ~38%, clear oozes before push|r
 
 |cRedPhase 3|r
-|cRed- |r
-|cRed- |r
-|cRed- |r
+|cRed- Tank swap every stack|r
+|cRed- Kite around edge|r
+|cRed- Green Pools are permenant|r
 
 <heroism_icc_putricide>

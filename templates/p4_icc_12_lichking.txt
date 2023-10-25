@@ -1,7 +1,29 @@
 The Lich King
 --------------------
-{tank} Boss - <tank_1>
+{tank} Lich King - <tank_1>
 
 Raid Cooldowns: [icc_raid_cooldowns]
+
+|cGreenPhase 1|r
+|cGreen- Necrotic Plague - Take this to the adds and cleanse it off|r
+|cGreen- Infest - Top everyone above 90%, keep people Disc shielded|r
+|cGreen- Tranq Shot Shamblers [tranq_shot]|r
+
+|cOrangeIntermission|r
+|cOrange- Move to edge|r
+|cOrange- Ranged Focus Ice Spheres|r
+|cOrange- Spread loosely|r
+|cOrange- Melee focus down Raging Spirits, Tanks face them away|r
+
+|cPurplePhase 2|r
+|cPurple- Infest Remains, Disc shield everyone|r
+|cPurple- Slow, Stun & Kill the Valkyr|r
+|cPurple- DO NOT STAND IN DEFILE, move out with it and drop it away|r
+|cPurple- Tanks use Cooldowns on Soul Reaper|r
+
+|cRedPhase 3|r
+|cRed- Infest & Valkyr Stop|r
+|cRed- Spawns ghosts, move boss away - off-tanks to soak|r
+|cRed- Sucked inside, DPS add or Heal NPC|r
 
 <heroism_icc_lichking>

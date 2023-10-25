@@ -5,12 +5,17 @@ Blood-Queen Lana'thel
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
-Phase 1
-- 
+|cGreenPhase 1|r
+|cGreen- Delay first bite til 6-8 seconds into debuff|r
+|cGreen- 3 Chained Players run together|r
+|cGreen- Stay loosely spread|r
+|cGreen- Run the fire to the edge of the room|r
+|cGreen- Bitee Target, run to Biter|r
 
-Phase 2
-- Spread out, 12 yards
-- Use Tremor totems
-- Use raid cooldowns
+|cOrangePhase 2|r
+|cOrange- Spread out, ~10 yards|r
+|cOrange- Pop tremors ready|r
+|cOrange- Use raid cooldowns - DSac on first Whirltick|r
+|cOrange- Healers use the middle of the room|r
 
 <heroism_icc_bloodqueen>

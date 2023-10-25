@@ -4,4 +4,23 @@ Sindragosa
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
+|cGreenPhase 1: Ground|r
+|cGreen- Melee - Reset stacks every 5-8 stacks|r
+|cGreen- Casters - Debuffed players run RIGHT of stack, minimise casting|r
+|cGreen- Healer - Debuffed players run LEFT of stack, minimise casting|r
+|cGreen- Gripped in, run out 25 yards|r
+
+|cPurplePhase 1: Air|r
+|cPurple- Spread the iceblocks - 3 spots|r
+|cPurple- LoS the dropping ice bombs, watch the angle of the bomb|r
+|cPurple- Get the Iceblocks to ~15% and break on 4th bomb drop|r
+|cPurple- Break blocks after final bomb|r
+
+|cRedPhase 3:|r
+|cRed- Alternate dropping ice blocks each side of the stack|r
+|cRed- Drop stacking magic debuff at ~4 stacks by LoS behind ice blocks|r
+|cRed- Kill block when new one spawns|r
+|cRed- Phase 1 mechanics remain|r
+|cRed- Tanks swap every 3 breaths|r
+
 <heroism_icc_sindragosa>
