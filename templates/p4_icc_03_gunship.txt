@@ -1,7 +1,7 @@
 Gunship Battle
 --------------------
 {tank} Alliance Ship - <tank_1>
-{tank} Horde Ship - <tank_2>
+{tank} Horde Ship - <tank_3>
 
 |cRedIMPORTANT: Get your jetpack|r
 |cRedCannon Squad: [icc_gunship_cannon_squad]|r

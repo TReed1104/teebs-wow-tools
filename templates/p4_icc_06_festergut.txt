@@ -2,9 +2,9 @@ Festergut
 --------------------
 {tank} Festergut - <tank_1> > <tank_3>
 
-{star} Spore Stack: [icc_festergut_spore_star]
-{square} Spore Stack: [icc_festergut_spore_square]
-{diamond} Spore Stack: [icc_festergut_spore_diamond]
+Melee Spore Stack: Melee + <healer_5>
+Left Spore Stack: [icc_festergut_spore_left]
+Right Spore Stack: [icc_festergut_spore_right]
 
 Raid Cooldowns: [icc_raid_cooldowns]
 

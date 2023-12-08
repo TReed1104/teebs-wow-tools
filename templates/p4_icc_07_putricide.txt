@@ -1,7 +1,7 @@
 Professor Putricide
 --------------------
-{tank} Putricide - <tank_1> > <tank_2>
-{tank} Abomination - <tank_3>
+{tank} Putricide - <tank_1> > <tank_2> > <tank_3>
+{tank} Abomination - [icc_putricide_abomination]
 
 Raid Cooldowns: [icc_raid_cooldowns]
 

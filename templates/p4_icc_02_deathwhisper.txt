@@ -1,7 +1,7 @@
 Lady Deathwhisper
 --------------------
-{tank} Deathwhisper - <tank_1> > <tank_2>
-{tank} Left Adds - <tank_1>
+{tank} Deathwhisper - <tank_4>
+{tank} Left Adds - <tank_3>
 {tank} Right Adds - <tank_2>
 
 Raid Cooldowns: [icc_raid_cooldowns]

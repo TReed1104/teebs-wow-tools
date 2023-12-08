@@ -1,6 +1,6 @@
 The Lich King
 --------------------
-{tank} Lich King - <tank_1>
+{tank} Lich King - <tank_2>
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
@@ -11,9 +11,9 @@ Raid Cooldowns: [icc_raid_cooldowns]
 
 |cOrangeIntermission|r
 |cOrange- Move to edge|r
-|cOrange- Ranged Focus Ice Spheres|r
-|cOrange- Spread loosely|r
-|cOrange- Melee focus down Raging Spirits, Tanks face them away|r
+|cOrange- Hunters on Ice Spheres|r
+|cOrange- Spread in 2/3s loosely|r
+|cOrange- Tanks raging faced away|r
 
 |cPurplePhase 2|r
 |cPurple- Infest Remains, Disc shield everyone|r
@@ -23,7 +23,7 @@ Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedPhase 3|r
 |cRed- Infest & Valkyr Stop|r
-|cRed- Spawns ghosts, move boss away - off-tanks to soak|r
+|cRed- Spirit Soak Order: [icc_lichking_spirit_soaker]|r
 |cRed- Sucked inside, DPS add or Heal NPC|r
 
 <heroism_icc_lichking>

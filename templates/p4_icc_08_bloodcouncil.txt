@@ -1,8 +1,8 @@
 Blood Prince Council
 --------------------
-{tank} |cYellowValanar|r - <tank_2>
-{tank} |cRedTaldaaram|r - <tank_3>
-{tank} |cPurpleKeleseth|r - <tank_1>
+{tank} |cYellowValanar|r - <tank_1>
+{tank} |cRedTaldaram|r - <tank_3>
+{tank} |cPurpleKeleseth|r - <tank_4>
 
 Raid Cooldowns: [icc_raid_cooldowns]
 

@@ -2,9 +2,9 @@ Lord Marrowgar
 --------------------
 {tank} Marrowgar - <tank_1> + <tank_2> + <tank_3>
 
-|cPurpleBone spike healers: <healer_6> + <healer_4>|r
-
 Raid Cooldowns: [icc_raid_cooldowns]
+
+Spike Healers: <healer_5> + <healer_4>
 
 |cGreen- Tanks stack tightly, everyone avoid them|r
 |cGreen- Nuke Bone Spikes instantly, drop everything to kill them|r

@@ -1,6 +1,6 @@
 Blood-Queen Lana'thel
 --------------------
-{tank} Queen - <tank_1>
+{tank} Queen - <tank_2>
 {tank} Soak - <tank_3>
 
 Raid Cooldowns: [icc_raid_cooldowns]

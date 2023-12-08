@@ -1,13 +1,13 @@
 Rotface
 --------------------
 {tank} Rotface - <tank_2>
-{tank} Slimes - <tank_1>
+{tank} Slimes - <tank_4>
 
 Raid Cooldowns: [icc_raid_cooldowns]
 
 |cOrangeSlimes|r
 |cOrange- Dispel the debuff to spawn the slimes|r
-|cOrange- Slim etargets run to {star} Slime Tank: <tank_1>|r
+|cOrange- Slim etargets run to {star} Slime Tank: <tank_4>|r
 |cOrange- Slimes fuse together and explode at 5 fuses|r
 |cOrange- When the slime explodes, move from where you were stood and blow defensives|r
 

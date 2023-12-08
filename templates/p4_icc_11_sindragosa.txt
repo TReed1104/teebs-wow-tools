@@ -18,7 +18,7 @@ Raid Cooldowns: [icc_raid_cooldowns]
 
 |cRedPhase 3:|r
 |cRed- Alternate dropping ice blocks each side of the stack|r
-|cRed- Drop stacking magic debuff at ~4 stacks by LoS behind ice blocks|r
+|cRed- Drop stacking magic debuff every other block|r
 |cRed- Kill block when new one spawns|r
 |cRed- Phase 1 mechanics remain|r
 |cRed- Tanks swap every 3 breaths|r
